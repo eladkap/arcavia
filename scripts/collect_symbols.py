@@ -38,5 +38,10 @@ def collect_symbols():
         print(f'Collecting symbols from category {category}.')
         category_symbols = collect_symbols_by_category(category)
         all_symbols.extend(category_symbols)
+        print(f'Collected {len(category_symbols)} symbols from {category}')
 
-    Utils.write_dicts_to_json(all_symbols, SYMBOLS_JSON_PATH)
+    return all_symbols
+
+
+def write_symbols_to_file(symbols: list):
+    Utils.write_dicts_to_json(symbols, SYMBOLS_JSON_PATH)
