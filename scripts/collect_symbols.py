@@ -33,6 +33,7 @@ def collect_symbols():
         category_symbols = collect_symbols_by_category(category)
         all_symbols.extend(category_symbols)
         print(f'Collected {len(category_symbols)} symbols from {category}')
+    print(f'Colllected total symbols: {len(all_symbols)}')
     return all_symbols
 
 

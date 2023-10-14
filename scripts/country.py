@@ -6,6 +6,9 @@ class Country(object):
         self.population = population
         self.area = area
 
+    def __str__(self):
+        return str(self.to_dict())
+
     def to_dict(self):
         return {
             'country': self.country,
