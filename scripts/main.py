@@ -1,12 +1,11 @@
-from collect_symbols import collect_symbols, write_symbols_to_file
+from collect_symbols import collect_symbols, write_symbols_to_file, write_symbols_by_category_to_files
+from constants import SYMBOLS_JSON_PATH
 
 
 def main():
     symbols = collect_symbols()
-    write_symbols_to_file(symbols)
-
-    for symbol in symbols:
-        print(f"{symbol['symbol']}: {symbol['meaning']}")
+    write_symbols_to_file(symbols, SYMBOLS_JSON_PATH)
+    write_symbols_by_category_to_files(symbols)
 
 
 if __name__ == '__main__':

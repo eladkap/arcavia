@@ -4,11 +4,20 @@ SYMBOLS_URL = 'https://www.freecodecamp.org/news/all-emojis-emoji-list-for-copy-
 
 SYMBOLS_FOOD_URL = 'https://tools.picsart.com/text/emojis/food-drink/'
 
-FOLDERS = 'data/'
+SYMBOLS_FOLDER = 'data/symbols'
+
+CATEGORY_MAP = {
+    'animalsandnatureemojis': 'Animals & Nature',
+    'foodanddrinksemojis': 'Food & Drinks',
+    'sportemojis': 'Sports',
+    'countryflags': 'Country Flags'
+}
 
 SYMBOL_CATEGORIES = [
-    'foodanddrinksemojis'
+    'animalsandnatureemojis',
+    'foodanddrinksemojis',
+    'sportemojis',
+    'countryflags'
 ]
 
-SYMBOLS_JSON_PATH = 'data/symbols.json'
-
+SYMBOLS_JSON_PATH = 'data/symbols/all_symbols.json'
