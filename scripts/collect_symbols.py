@@ -3,7 +3,7 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
-from constants import SYMBOLS_URL, SYMBOL_CATEGORIES, SYMBOLS_FOLDER, CATEGORY_MAP
+from constants import SYMBOLS_URL, SYMBOL_CATEGORIES, JSON_FOLDER, CATEGORY_MAP
 from symbol import Symbol
 from utils import Utils
 
@@ -25,7 +25,6 @@ def collect_symbols_by_category(category: str):
 
 
 def collect_symbols():
-    os.makedirs(SYMBOLS_FOLDER, exist_ok=True)
     print('Collecting symbols.')
     all_symbols = []
     for category in SYMBOL_CATEGORIES:
@@ -46,5 +45,5 @@ def write_symbols_by_category_to_files(symbols: list):
     for category_key in CATEGORY_MAP.keys():
         category_name = CATEGORY_MAP[category_key]
         symbols_of_category = list(filter(lambda symbol: symbol.category == category_name, symbols))
-        file_path = os.path.join(SYMBOLS_FOLDER, category_key + '.json')
+        file_path = os.path.join(JSON_FOLDER, category_key + '.json')
         write_symbols_to_file(symbols_of_category, file_path)

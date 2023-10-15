@@ -1,8 +1,8 @@
 class Country(object):
-    def __init__(self, country: str, capital_city: str, flag: str, population: int, area: int):
+    def __init__(self, country: str, capital_city: str, flag_img: str, population: int, area: int):
         self.country = country
         self.capital_city = capital_city
-        self.flag = flag
+        self.flag_img = flag_img
         self.population = population
         self.area = area
 
@@ -13,7 +13,7 @@ class Country(object):
         return {
             'country': self.country,
             'capital_city': self.capital_city,
-            'flag': self.flag,
+            'flag_img': self.flag_img,
             'population': self.population,
             'area': self.area
         }
