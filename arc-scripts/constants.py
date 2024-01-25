@@ -8,16 +8,16 @@ UNITED_STATES_URL = 'https://en.wikipedia.org/wiki/List_of_states_and_territorie
 SYMBOLS_URL = 'https://www.freecodecamp.org/news/all-emojis-emoji-list-for-copy-and-paste/'
 
 DATA_FOLDERS = [
-    'data/csv_files',
-    'data/json_files',
-    'data/images/flags',
-    'data/images/landmarks'
+    'c:/arcavia-data/csv_files',
+    'c:/arcavia-data/json_files',
+    'c:/arcavia-data/images/flags',
+    'c:/arcavia-data/images/landmarks'
 ]
 
-SYMBOLS_JSON_PATH = 'data/json_files/all_symbols.json'
-COUNTRIES_JSON_PATH = 'data/json_files/countries.json'
-JSON_FOLDER = 'data/json_files'
-FLAG_IMAGES_PATH = 'data/images/flags'
+SYMBOLS_JSON_PATH = 'c:/arcavia-data/json_files/all_symbols.json'
+COUNTRIES_JSON_PATH = 'c:/arcavia-data/json_files/countries.json'
+JSON_FOLDER = 'c:/arcavia-data/json_files'
+FLAG_IMAGES_PATH = 'c:/arcavia-data/images/flags'
 
 CATEGORY_MAP = {
     'animalsandnatureemojis': 'Animals & Nature',

@@ -3,12 +3,12 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
-from constants import COUNTRIES_URL, COUNTRY_FLAGS_URL, FLAG_IMAGES_PATH, MAIN_URL, COUNTRIES_JSON_PATH
+from constants import COUNTRIES_URL, COUNTRY_FLAGS_URL, FLAG_IMAGES_PATH, MAIN_URL
 from country import Country
-from utils import Utils
 
 
 def collect_flags():
+    print('Collecting flags')
     url = COUNTRY_FLAGS_URL
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html5lib')
@@ -33,6 +33,7 @@ def collect_flags():
 
 
 def collect_countries():
+    print('Collecting countries')
     url = COUNTRIES_URL
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html5lib')
@@ -61,15 +62,3 @@ def collect_countries():
         countries.append(country)
 
     return countries
-
-
-if __name__ == '__main__':
-    print('Collecting flags.')
-    collect_flags()
-
-    countries = collect_countries()
-    for country in countries:
-        print(country)
-
-    country_dicts = [country.to_dict() for country in countries]
-    Utils.write_dicts_to_json(country_dicts, COUNTRIES_JSON_PATH)
