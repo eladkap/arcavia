@@ -33,7 +33,6 @@ def collect_flags():
 
 
 def collect_countries():
-    print('Collecting countries')
     url = COUNTRIES_URL
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html5lib')
