@@ -18,7 +18,7 @@ const FONTS_SIZE_L = '32';
 
 /** Bubbles */
 const BUBBLES_NUM = 10;
-const BUBBLE_MAX_VELOCITY = 6;
+const BUBBLE_MAX_VELOCITY = 4;
 const BUBBLE_RADIUS = 30;
 
 /* Colors */

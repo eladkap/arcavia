@@ -29,4 +29,9 @@ class Bubble {
             this.velocity.y *= -1;
         }
     }
+
+    isClicked(mx, my) {
+        let d =  Math.pow(this.pos.x - mx, 2) + Math.pow(this.pos.y - my, 2);
+        return d < 1;
+    }
 }

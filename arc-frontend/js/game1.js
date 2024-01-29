@@ -29,7 +29,7 @@ function keyDown(event) {
 function onMouseClicked(event) {
     let mx = event.clientX;
     let my = event.clientY;
-    console.log(`clicked point: (${mx}, ${my})`);
+    checkClicks(mx, my);
 }
 
 /* PRELOAD METHODS */
@@ -75,12 +75,24 @@ function setup() {
     /* create entities */
     createBubbles();
 }
+
+function checkClicks(mx, my) {
+    for (let i = 0; i < bubbles.length; i++) {
+        if (bubbles[i].isClicked(mx, my)) {
+            bubbles.splice(i, 1);
+        }
+    }
+}
   
-  function update() {
+function update() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     showWindowSize();
     /* update entities */
     updateBubbles();
+
+    /* check mouse events */
+    checkClicks();
+
     requestAnimationFrame(update);
   }
 
