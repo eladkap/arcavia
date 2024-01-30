@@ -31,7 +31,7 @@ class Bubble {
     }
 
     isClicked(mx, my) {
-        let d =  Math.pow(this.pos.x - mx, 2) + Math.pow(this.pos.y - my, 2);
-        return d < 1;
+        let dSquared =  Math.pow(this.pos.x - mx, 2) + Math.pow(this.pos.y - my, 2);
+        return dSquared < Math.pow(this.radius, 2);
     }
 }

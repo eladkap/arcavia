@@ -91,8 +91,6 @@ function update() {
     updateBubbles();
 
     /* check mouse events */
-    checkClicks();
-
     requestAnimationFrame(update);
   }
 
