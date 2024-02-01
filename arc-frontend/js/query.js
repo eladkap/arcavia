@@ -1,7 +1,7 @@
 class Query {
-    constructor(question, answers, correctAns) {
+    constructor(question, answers, correctAnswerIndex) {
         this.question = question;
         this.answers = answers;
-        this.correctAns = correctAns;
+        this.correctAnswerIndex = correctAnswerIndex;
     }
 }

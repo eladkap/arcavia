@@ -39,14 +39,16 @@ function loadQueries() {
 
 /* SETUP METHODS */
 function createBubbles() {
-    for (let i = 0; i < COLORS.length; i++) {
+    for (let i = 0; i < SYMBOLS.length; i++) {
         let x = Utils.getRandomFromRange(2 * BUBBLE_RADIUS, window.innerWidth - 2 * BUBBLE_RADIUS);
         let y = Utils.getRandomFromRange(2 * BUBBLE_RADIUS, window.innerHeight - 2 * BUBBLE_RADIUS);
         let angle = Math.random() * (2 * Math.PI);
         let velocity = Vector.fromAngle(angle, BUBBLE_MAX_VELOCITY);
         let radius = BUBBLE_RADIUS;
-        let color = COLORS[i];
-        let bubble = new Bubble(x, y, radius, velocity, color);
+        let color = COLORS[0];
+        let symbol = SYMBOLS[i];
+        let srcImage = null;
+        let bubble = new Bubble(x, y, radius, velocity, color, symbol, srcImage);
         bubbles.push(bubble);
     }
 }

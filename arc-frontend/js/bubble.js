@@ -1,9 +1,11 @@
 class Bubble {
-    constructor(x, y, radius, velocity, color) {
+    constructor(x, y, radius, velocity, color, symbol, srcImage) {
         this.pos = new Vector(x, y);
         this.radius = radius;
         this.velocity = velocity;
         this.color = color;
+        this.symbol = symbol;
+        this.srcImage = srcImage;
     }
 
     display() {
@@ -14,6 +16,10 @@ class Bubble {
         ctx.lineWidth = 1;
         ctx.strokeStyle = this.color;
         ctx.stroke();
+
+        ctx.font = `${SYMBOL_FONT_SIZE}px ${SYMBOL_FONT_FAMILY}`
+        ctx.fillStyle = 'black';
+        ctx.fillText(this.symbol, this.pos.x - this.radius * 0.6, this.pos.y + this.radius / 4);
     }
 
     update() {

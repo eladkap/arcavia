@@ -6,29 +6,43 @@ const ANGLE_OFFSET = -Math.PI / 2;
 const ANGLE_OFFSET_REVERSED = Math.PI / 2;
 const FRICTION = 0.95;
 
-/* Game Graphics */
+/* Graphics */
 
 /* Fonts */
 const FONT_FAMILY = 'consolas';
 const FONTS_SIZE_S = '16';
 const FONTS_SIZE_M = '24';
 const FONTS_SIZE_L = '32';
+const SYMBOL_FONT_SIZE = 40;
+const SYMBOL_FONT_FAMILY = 'Arial';
 
 /* Spaceship */
 
 /** Bubbles */
 const BUBBLES_NUM = 10;
 const BUBBLE_MAX_VELOCITY = 4;
-const BUBBLE_RADIUS = 30;
+const BUBBLE_RADIUS = 40;
 
 /* Colors */
 const COLORS = [
+    'rgb(150, 150, 150)',
     'rgb(255, 50, 50)',
     'rgb(50, 255, 50)',
     'rgb(50, 50, 255)',
     'rgb(127, 0, 255)',
     'rgb(200, 100, 0)',
     'rgb(255, 100, 255)'
+]
+
+
+/* Symbols */
+const SYMBOLS = [
+    '🍉',
+    '🍍',
+    '🍒',
+    '🥝',
+    '🍊',
+    '🍌'
 ]
 
 /* Raptor */
