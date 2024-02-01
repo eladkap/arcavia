@@ -16,5 +16,14 @@ def main():
     Utils.write_dicts_to_json(country_dicts, COUNTRIES_JSON_PATH)
 
 
+def load_symbols_from_file():
+    data = Utils.read_json_to_dicts(SYMBOLS_JSON_PATH)
+    return data
+
+
 if __name__ == '__main__':
-    main()
+    symbols = load_symbols_from_file()
+    for symbol in symbols:
+        print(symbol)
+    print(len(symbols))
+    # main()
