@@ -1,25 +1,20 @@
 class Symbol(object):
-    def __init__(self, symbol: str, meaning: str, code: str, category: str):
+    def __init__(self, symbol: str, title: str, category: str):
         self.symbol = symbol
-        self.meaning = meaning
-        self.code = code
+        self.title = title
         self.category = category
 
     def __str__(self):
         d = {
             'symbol': self.symbol,
-            'meaning': self.meaning
+            'title': self.title,
+            'category': self.category
         }
         return str(d)
 
     def to_dict(self):
         return {
             'symbol': self.symbol,
-            'meaning': self.meaning,
-            'code': self.code,
+            'title': self.title,
             'category': self.category
         }
-
-
-if __name__ == '__main__':
-    symbol = Symbol('!', 'exclamation mark', '12', 'C')
