@@ -7,14 +7,12 @@ from utils import Utils
 def main():
     Utils.create_folders(DATA_FOLDERS)
     symbols = collect_all_symbols()
-    print(f'Symbol collected {len(symbols)}')
+    print(f'Symbols collected {len(symbols)}')
     write_symbols_to_file(symbols, SYMBOLS_JSON_PATH)
 
     # collect_flags()
     print('Collecting countries')
     countries = collect_countries()
-
-    'https://github.com/samayo/country-json/blob/master/src/country-by-capital-city.json'
 
     print(f'Countres collected: {len(countries)}')
     country_dicts = [country.to_dict() for country in countries]

@@ -78,9 +78,11 @@ def collect_countries():
                 country_dict['area'] = int(tds[i].text.replace(',', ''))
 
         country = country_dict['country_name']
-        capital_city = country_to_capital_dict[country] if country in country_to_capital_dict.keys() else ''
-        if capital_city == '':
+        capital_city = country_to_capital_dict[country] if country in country_to_capital_dict.keys() else None
+        if not capital_city:
             print(f'Warning: {country} not found in file countries-capitals')
+            continue
+
         country_dict['capital'] = capital_city
 
         country = Country(country_dict['id'], country_dict['country_name'], country_dict['capital'],
