@@ -1,5 +1,6 @@
 class Country(object):
-    def __init__(self, country: str, capital_city: str, flag_img: str, population: int, area: int):
+    def __init__(self, country_id: str, country: str, capital_city: str, flag_img: str, population: int, area: int):
+        self.country_id = country_id
         self.country = country
         self.capital_city = capital_city
         self.flag_img = flag_img
@@ -11,6 +12,7 @@ class Country(object):
 
     def to_dict(self):
         return {
+            'country_id': self.country_id,
             'country': self.country,
             'capital_city': self.capital_city,
             'flag_img': self.flag_img,

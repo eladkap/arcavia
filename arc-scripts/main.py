@@ -11,7 +11,12 @@ def main():
     write_symbols_to_file(symbols, SYMBOLS_JSON_PATH)
 
     # collect_flags()
+    print('Collecting countries')
     countries = collect_countries()
+
+    'https://github.com/samayo/country-json/blob/master/src/country-by-capital-city.json'
+
+    print(f'Countres collected: {len(countries)}')
     country_dicts = [country.to_dict() for country in countries]
     Utils.write_dicts_to_json(country_dicts, COUNTRIES_JSON_PATH)
 
@@ -22,8 +27,4 @@ def load_symbols_from_file():
 
 
 if __name__ == '__main__':
-    symbols = load_symbols_from_file()
-    for symbol in symbols:
-        print(symbol)
-    print(len(symbols))
-    # main()
+    main()

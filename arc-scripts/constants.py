@@ -9,10 +9,12 @@ UNITED_STATES_URL = 'https://en.wikipedia.org/wiki/List_of_states_and_territorie
 # Symbols #
 
 SYMBOLS_URLS_CATEGORIES = [
-    ['https://tools.picsart.com/text/emojis/nature/', Category.ANIMAL_NATURE.name],
+    ['https://tools.picsart.com/text/emojis/nature/', Category.ANIMALS_NATURE.name],
     ['https://tools.picsart.com/text/emojis/food-drink/', Category.FOOD_DRINKS.name],
     ['https://tools.picsart.com/text/emojis/activities/', Category.SPORTS.name]
 ]
+
+COUNTRIES_CAPITAL_CITIES_FILE = 'C:/arcavia-raw-data/country-by-capital-city.json'
 
 DATA_FOLDERS = [
     'c:/arcavia-data/csv_files',
@@ -23,7 +25,7 @@ DATA_FOLDERS = [
 
 SYMBOL_CATEGORIES = [c.name for c in Category]
 
-SYMBOLS_JSON_PATH = 'c:/arcavia-data/json_files/all_symbols.json'
+SYMBOLS_JSON_PATH = 'c:/arcavia-data/json_files/symbols.json'
 COUNTRIES_JSON_PATH = 'c:/arcavia-data/json_files/countries.json'
 JSON_FOLDER = 'c:/arcavia-data/json_files'
 FLAG_IMAGES_PATH = 'c:/arcavia-data/images/flags'

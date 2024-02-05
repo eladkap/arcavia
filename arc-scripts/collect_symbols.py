@@ -16,10 +16,10 @@ def collect_symbols_by_url_category(url: str, category: str):
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
     li_objs = soup.find_all('li', attrs={'class': 'Emojis-emoji-0-2-180'})
-    for li_obj in li_objs:
+    for i, li_obj in enumerate(li_objs):
         sym = li_obj.text
         symbol_title = li_obj.attrs['title']
-        symbol = Symbol(sym, symbol_title, category)
+        symbol = Symbol(f'sym-{i + 1}', sym, symbol_title, category)
         symbols.append(symbol)
     return symbols
 
