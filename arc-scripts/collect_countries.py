@@ -9,7 +9,6 @@ from country import Country
 
 
 def collect_flags():
-    print('Collecting flags')
     url = COUNTRY_FLAGS_URL
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html5lib')
@@ -53,7 +52,6 @@ def handle_country_name(name: str):
 
 def collect_countries():
     country_to_capital_dict = get_countries_capital_cities_dict()
-
     url = COUNTRIES_URL
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html5lib')

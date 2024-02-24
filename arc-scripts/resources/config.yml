@@ -1,0 +1,8 @@
+data:
+  countries:
+    enable: true
+  flags:
+    enable: false
+  symbols:
+    enable: true
+    

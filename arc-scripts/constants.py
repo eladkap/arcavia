@@ -17,7 +17,6 @@ SYMBOLS_URLS_CATEGORIES = [
 COUNTRIES_CAPITAL_CITIES_FILE = 'C:/arcavia-raw-data/country-by-capital-city.json'
 
 DATA_FOLDERS = [
-    'c:/arcavia-data/csv_files',
     'c:/arcavia-data/json_files',
     'c:/arcavia-data/images/flags',
     'c:/arcavia-data/images/landmarks'
