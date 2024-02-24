@@ -6,4 +6,3 @@ class Category(Enum):
     FOOD_DRINKS = 2
     SPORTS = 3
     COUNTRY_FLAGS = 4
-
