@@ -4,7 +4,15 @@ class Utils {
     }
 
     static dist(p1, p2) {
-        return Math.pow(p1.x - p2.x, 2) + Math.pow(p1.y - p2.y, 2);
+        let a = p1.x - p2.x;
+        let b = p1.y - p2.y;
+        return Math.sqrt(a * a + b * b);
+    }
+
+    static squaredDist(p1, p2) {
+        let a = p1.x - p2.x;
+        let b = p1.y - p2.y;
+        return a * a + b * b;
     }
 
     static checkCorrectAnswer(query, bubble) {

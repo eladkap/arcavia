@@ -3,6 +3,10 @@ class Vector {
       this.x = x;
       this.y = y;
     }
+
+    toString() {
+      return `(${this.x},${this.y})`;
+    }
   
     set(x, y) {
       this.x = x;

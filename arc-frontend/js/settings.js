@@ -1,3 +1,7 @@
+/* Game Settings */
+const SHOW_WINDOW_SIZE = false;
+const SHOW_MOUSE_POSITION = true;
+
 /* Game Physics */
 const GRAVITY = 0.1;
 const IMAGE_SCALE = 0.2;
@@ -13,15 +17,19 @@ const FONT_FAMILY = 'consolas';
 const FONTS_SIZE_S = '16';
 const FONTS_SIZE_M = '24';
 const FONTS_SIZE_L = '32';
-const SYMBOL_FONT_SIZE = 40;
+const SYMBOL_FONT_SIZE = 80;
 const SYMBOL_FONT_FAMILY = 'Arial';
 
 /* Spaceship */
 
 /** Bubbles */
+const BUBBLE_RADIUS_SMALL = 40;
+const BUBBLE_RADIUS_MEDIUM = 80;
+const BUBBLE_RADIUS_BIG = 160;
+
 const BUBBLES_NUM = 10;
-const BUBBLE_MAX_VELOCITY = 4;
-const BUBBLE_RADIUS = 40;
+const BUBBLE_MAX_VELOCITY = 0; // 4
+const BUBBLE_RADIUS = BUBBLE_RADIUS_MEDIUM;
 
 /* Colors */
 const COLORS = [

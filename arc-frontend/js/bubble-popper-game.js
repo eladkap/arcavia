@@ -1,4 +1,4 @@
-var canvas = document.getElementById('gameplay-canvas1');
+var canvas = document.getElementById('bubble-popper-canvas');
 var ctx = canvas.getContext('2d');
 
 canvas.width = window.innerWidth;
@@ -14,6 +14,9 @@ window.addEventListener("keydown", keyDown);
 
 /* MOUSE EVENTS */
 window.addEventListener("click", onMouseClicked);
+// window.addEventListener("mousemove", handleMouseMove);
+document.onmousemove = handleMouseMove;
+
 
 /* EVENT HANDLERS */
 function keyPressed(event) {
@@ -29,7 +32,13 @@ function keyDown(event) {
 function onMouseClicked(event) {
     let mx = event.clientX;
     let my = event.clientY;
-    checkClicks(mx, my);
+    checkClick(mx, my);
+}
+
+function onMouseOver(event) {
+    let mx = event.clientX;
+    let my = event.clientY;
+    checkMouseOver(mx, my);
 }
 
 /* PRELOAD METHODS */
@@ -39,7 +48,7 @@ function loadQueries() {
 
 /* SETUP METHODS */
 function createBubbles() {
-    for (let i = 0; i < SYMBOLS.length; i++) {
+    for (let i = 0; i < 1; i++) {
         let x = Utils.getRandomFromRange(2 * BUBBLE_RADIUS, window.innerWidth - 2 * BUBBLE_RADIUS);
         let y = Utils.getRandomFromRange(2 * BUBBLE_RADIUS, window.innerHeight - 2 * BUBBLE_RADIUS);
         let angle = Math.random() * (2 * Math.PI);
@@ -62,14 +71,28 @@ function updateBubbles() {
 }
 
 function showWindowSize() {
-    ctx.font = `${FONTS_SIZE_S}px ${FONT_FAMILY}`;
-    ctx.fillStyle = 'white';
-    ctx.fillText(`[${window.innerWidth} x ${window.innerHeight}]`, 10, window.innerHeight - 20);
-  }
+    if (SHOW_WINDOW_SIZE) {
+        ctx.font = `${FONTS_SIZE_S}px ${FONT_FAMILY}`;
+        ctx.fillStyle = 'white';
+        ctx.fillText(`[${window.innerWidth} x ${window.innerHeight}]`, 10, window.innerHeight - 20);
+    }
+}
+
+function handleMouseMove(event) {
+    let mx = event.clientX;
+    let my = event.clientY;
+    if (SHOW_MOUSE_POSITION) {
+        ctx.font = `${FONTS_SIZE_M}px ${FONT_FAMILY}`;
+        ctx.fillStyle = 'white';
+        ctx.fillText(`(${mx},${my})`, 10, window.innerHeight - 20);
+    }
+}
 
 async function preload(callback) {
     console.log('preload');
-    callback();
+    setTimeout(() => {
+        callback();
+    }, 500);
 }
 
 function setup() {
@@ -78,10 +101,12 @@ function setup() {
     createBubbles();
 }
 
-function checkClicks(mx, my) {
+function checkClick(mx, my) {
     for (let i = 0; i < bubbles.length; i++) {
-        if (bubbles[i].isClicked(mx, my)) {
-            bubbles.splice(i, 1);
+        if (bubbles[i].isClicked(new Vector(mx, my))) {
+            console.log(bubbles[i].symbol);
+            // bubbles.splice(i, 1);
+            return;
         }
     }
 }
@@ -89,12 +114,13 @@ function checkClicks(mx, my) {
 function update() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     showWindowSize();
+    // handleMouseMove();
     /* update entities */
     updateBubbles();
 
     /* check mouse events */
     requestAnimationFrame(update);
-  }
+}
 
 function runGame() {
     console.log('runGame');
