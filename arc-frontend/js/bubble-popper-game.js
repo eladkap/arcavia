@@ -3,10 +3,14 @@ var ctx = canvas.getContext('2d');
 
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
+// canvas.width = 1024;
+// canvas.height = 1280;
 
 /* GLOBALS */
 var bubbles = [];
 var queries = [];
+
+var dots = [];
 
 /* KEYBOARD EVENTS */
 // window.addEventListener("keypress", keyPressed);
@@ -14,8 +18,9 @@ window.addEventListener("keydown", keyDown);
 
 /* MOUSE EVENTS */
 window.addEventListener("click", onMouseClicked);
+
 // window.addEventListener("mousemove", handleMouseMove);
-document.onmousemove = handleMouseMove;
+// document.onmousemove = handleMouseMove;
 
 
 /* EVENT HANDLERS */
@@ -30,9 +35,14 @@ function keyDown(event) {
 }
 
 function onMouseClicked(event) {
-    let mx = event.clientX;
-    let my = event.clientY;
-    checkClick(mx, my);
+    let canvasRect = canvas.getBoundingClientRect();
+    let mousePos = Utils.translateMouseToCanvasPosition(event.pageX, event.pageY, canvasRect);
+    checkClick(mousePos);
+
+    // let canvasRect = canvas.getBoundingClientRect();
+    // let mx = event.pageX - canvasRect.left - scrollX;
+    // let my = event.pageY - canvasRect.top - scrollY;
+    // checkClick(mx, my);
 }
 
 function onMouseOver(event) {
@@ -70,6 +80,13 @@ function updateBubbles() {
     }
 }
 
+function updateDots() {
+    for (let i = 0; i < dots.length; i++) {
+        ctx.fillStyle = 'white';
+        ctx.fillRect(dots[i].x, dots[i].y, 3, 3);
+    }
+}
+
 function showWindowSize() {
     if (SHOW_WINDOW_SIZE) {
         ctx.font = `${FONTS_SIZE_S}px ${FONT_FAMILY}`;
@@ -101,9 +118,10 @@ function setup() {
     createBubbles();
 }
 
-function checkClick(mx, my) {
+function checkClick(mousePos) {
+    dots.push(new Vector(mousePos.x, mousePos.y));
     for (let i = 0; i < bubbles.length; i++) {
-        if (bubbles[i].isClicked(new Vector(mx, my))) {
+        if (bubbles[i].isClicked(mousePos)) {
             console.log(bubbles[i].symbol);
             // bubbles.splice(i, 1);
             return;
@@ -117,6 +135,8 @@ function update() {
     // handleMouseMove();
     /* update entities */
     updateBubbles();
+
+    updateDots();
 
     /* check mouse events */
     requestAnimationFrame(update);
