@@ -7,6 +7,7 @@ canvas.height = window.innerHeight;
 /* GLOBALS */
 var bubbles = [];
 var queries = [];
+var score = 0;
 
 /* KEYBOARD EVENTS */
 // window.addEventListener("keypress", keyPressed);
@@ -86,16 +87,29 @@ async function preload(callback) {
     }, 500);
 }
 
+function addToScore(amount) {
+    let currScore = Number(document.getElementById('score').innerText);
+    let newScore = currScore + amount;
+    document.getElementById('score').textContent = newScore;
+}
+
+function initGame() {
+    document.getElementById('score').textContent = '0';
+}
+
 function setup() {
     console.log('setup');
     /* create entities */
     createBubbles();
+
+    initGame();
 }
 
 function checkClick(mousePos) {
     for (let i = 0; i < bubbles.length; i++) {
         if (bubbles[i].isClicked(mousePos)) {
             bubbles.splice(i, 1);
+            addToScore(1);
             return;
         }
     }

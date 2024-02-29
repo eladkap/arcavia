@@ -14,13 +14,14 @@ body {
     --topnav-backcolor: #2d394b;
     --topnav-forecolor: white;
     --topnav-hover-forecolor: #40e0d0;
+    --game-states-header-color: rgb(80, 140, 240);
 }
 
 canvas {
     background-color: var(--canvas-backcolor);
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5 {
     color: var(--header-color);
 }
 
@@ -37,6 +38,10 @@ h3 {
 }
 
 h4 {
+    font-size: 24px;
+}
+
+h5 {
     font-size: 24px;
 }
 
