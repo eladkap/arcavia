@@ -45,13 +45,22 @@ p {
     font-size: 32px;
 }
 
-.container {
+.container-center {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 0 auto;
     padding: 1rem;
 }
+
+.container-left {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
 
 .bubble-popper-canvas {
     display: flex;
@@ -60,6 +69,5 @@ p {
     margin: 0 auto;
     padding: 0;
     width: 70%;
-    /* height: 100%; */
 }
 
