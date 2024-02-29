@@ -14,16 +14,21 @@
         </h3>
     </div>
 
-    <div style="display: block; margin: 4rem">
-        <h4>Player</h4>
-
-        <h4 color="var(--game-states-header-color)">Score</h4>
-        <p id="score"></p>
-
+    <div style="display: flex; justify-content: space-around;">
+        <div style="display: block; margin: 4rem">
+            <h4>Player</h4>
+    
+            <h4 color="var(--game-states-header-color)">Score</h4>
+            <p id="score"></p>
+        </div>
+    
+        <div style="display: block; margin: 4rem">
+            <canvas id="bubble-popper-canvas" class="bubble-popper-canvas">
+            </canvas>
+        </div>
     </div>
 
-    <canvas id="bubble-popper-canvas" class="bubble-popper-canvas">
-    </canvas>
+    
     
     <script type="text/javascript" src="js/lib/vector.js"></script>
     <script type="text/javascript" src="js/settings.js"></script>
