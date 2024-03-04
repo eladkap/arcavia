@@ -1,0 +1,908 @@
+[
+  {
+    "symbol_id": "sym-1",
+    "symbol": "\ud83d\udc35",
+    "title": "monkey face",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-2",
+    "symbol": "\ud83d\udc12",
+    "title": "monkey",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-3",
+    "symbol": "\ud83e\udd8d",
+    "title": "gorilla",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-4",
+    "symbol": "\ud83e\udda7",
+    "title": "orangutan",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-5",
+    "symbol": "\ud83d\udc36",
+    "title": "dog face",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-6",
+    "symbol": "\ud83d\udc15",
+    "title": "dog",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-7",
+    "symbol": "\ud83e\uddae",
+    "title": "guide dog",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-8",
+    "symbol": "\ud83d\udc15\u200d\ud83e\uddba",
+    "title": "service dog",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-9",
+    "symbol": "\ud83d\udc29",
+    "title": "poodle",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-10",
+    "symbol": "\ud83d\udc3a",
+    "title": "wolf",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-11",
+    "symbol": "\ud83e\udd8a",
+    "title": "fox",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-12",
+    "symbol": "\ud83e\udd9d",
+    "title": "raccoon",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-13",
+    "symbol": "\ud83d\udc31",
+    "title": "cat face",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-14",
+    "symbol": "\ud83d\udc08",
+    "title": "cat",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-15",
+    "symbol": "\ud83d\udc08\u200d\u2b1b",
+    "title": "black cat",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-16",
+    "symbol": "\ud83e\udd81",
+    "title": "lion",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-17",
+    "symbol": "\ud83d\udc2f",
+    "title": "tiger face",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-18",
+    "symbol": "\ud83d\udc05",
+    "title": "tiger",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-19",
+    "symbol": "\ud83d\udc06",
+    "title": "leopard",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-20",
+    "symbol": "\ud83d\udc34",
+    "title": "horse face",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-21",
+    "symbol": "\ud83e\udeceNew",
+    "title": "moose",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-22",
+    "symbol": "\ud83e\udecfNew",
+    "title": "donkey",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-23",
+    "symbol": "\ud83d\udc0e",
+    "title": "horse",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-24",
+    "symbol": "\ud83e\udd84",
+    "title": "unicorn",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-25",
+    "symbol": "\ud83e\udd93",
+    "title": "zebra",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-26",
+    "symbol": "\ud83e\udd8c",
+    "title": "deer",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-27",
+    "symbol": "\ud83e\uddac",
+    "title": "bison",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-28",
+    "symbol": "\ud83d\udc2e",
+    "title": "cow face",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-29",
+    "symbol": "\ud83d\udc02",
+    "title": "ox",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-30",
+    "symbol": "\ud83d\udc03",
+    "title": "water buffalo",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-31",
+    "symbol": "\ud83d\udc04",
+    "title": "cow",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-32",
+    "symbol": "\ud83d\udc37",
+    "title": "pig face",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-33",
+    "symbol": "\ud83d\udc16",
+    "title": "pig",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-34",
+    "symbol": "\ud83d\udc17",
+    "title": "boar",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-35",
+    "symbol": "\ud83d\udc3d",
+    "title": "pig nose",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-36",
+    "symbol": "\ud83d\udc0f",
+    "title": "ram",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-37",
+    "symbol": "\ud83d\udc11",
+    "title": "ewe",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-38",
+    "symbol": "\ud83d\udc10",
+    "title": "goat",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-39",
+    "symbol": "\ud83d\udc2a",
+    "title": "camel",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-40",
+    "symbol": "\ud83d\udc2b",
+    "title": "two-hump camel",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-41",
+    "symbol": "\ud83e\udd99",
+    "title": "llama",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-42",
+    "symbol": "\ud83e\udd92",
+    "title": "giraffe",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-43",
+    "symbol": "\ud83d\udc18",
+    "title": "elephant",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-44",
+    "symbol": "\ud83e\udda3",
+    "title": "mammoth",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-45",
+    "symbol": "\ud83e\udd8f",
+    "title": "rhinoceros",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-46",
+    "symbol": "\ud83e\udd9b",
+    "title": "hippopotamus",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-47",
+    "symbol": "\ud83d\udc2d",
+    "title": "mouse face",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-48",
+    "symbol": "\ud83d\udc01",
+    "title": "mouse",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-49",
+    "symbol": "\ud83d\udc00",
+    "title": "rat",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-50",
+    "symbol": "\ud83d\udc39",
+    "title": "hamster",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-51",
+    "symbol": "\ud83d\udc30",
+    "title": "rabbit face",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-52",
+    "symbol": "\ud83d\udc07",
+    "title": "rabbit",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-53",
+    "symbol": "\ud83d\udc3f\ufe0f",
+    "title": "chipmunk",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-54",
+    "symbol": "\ud83e\uddab",
+    "title": "beaver",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-55",
+    "symbol": "\ud83e\udd94",
+    "title": "hedgehog",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-56",
+    "symbol": "\ud83e\udd87",
+    "title": "bat",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-57",
+    "symbol": "\ud83d\udc3b",
+    "title": "bear",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-58",
+    "symbol": "\ud83d\udc3b\u200d\u2744\ufe0f",
+    "title": "polar bear",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-59",
+    "symbol": "\ud83d\udc28",
+    "title": "koala",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-60",
+    "symbol": "\ud83d\udc3c",
+    "title": "panda",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-61",
+    "symbol": "\ud83e\udda5",
+    "title": "sloth",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-62",
+    "symbol": "\ud83e\udda6",
+    "title": "otter",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-63",
+    "symbol": "\ud83e\udda8",
+    "title": "skunk",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-64",
+    "symbol": "\ud83e\udd98",
+    "title": "kangaroo",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-65",
+    "symbol": "\ud83e\udda1",
+    "title": "badger",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-66",
+    "symbol": "\ud83d\udc3e",
+    "title": "paw prints",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-67",
+    "symbol": "\ud83e\udd83",
+    "title": "turkey",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-68",
+    "symbol": "\ud83d\udc14",
+    "title": "chicken",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-69",
+    "symbol": "\ud83d\udc13",
+    "title": "rooster",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-70",
+    "symbol": "\ud83d\udc23",
+    "title": "hatching chick",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-71",
+    "symbol": "\ud83d\udc24",
+    "title": "baby chick",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-72",
+    "symbol": "\ud83d\udc25",
+    "title": "front-facing baby chick",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-73",
+    "symbol": "\ud83d\udc26",
+    "title": "bird",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-74",
+    "symbol": "\ud83d\udc27",
+    "title": "penguin",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-75",
+    "symbol": "\ud83d\udd4a\ufe0f",
+    "title": "dove",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-76",
+    "symbol": "\ud83e\udd85",
+    "title": "eagle",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-77",
+    "symbol": "\ud83e\udd86",
+    "title": "duck",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-78",
+    "symbol": "\ud83e\udda2",
+    "title": "swan",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-79",
+    "symbol": "\ud83e\udd89",
+    "title": "owl",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-80",
+    "symbol": "\ud83e\udda4",
+    "title": "dodo",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-81",
+    "symbol": "\ud83e\udeb6",
+    "title": "feather",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-82",
+    "symbol": "\ud83e\udda9",
+    "title": "flamingo",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-83",
+    "symbol": "\ud83e\udd9a",
+    "title": "peacock",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-84",
+    "symbol": "\ud83e\udd9c",
+    "title": "parrot",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-85",
+    "symbol": "\ud83e\udebdNew",
+    "title": "wing",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-86",
+    "symbol": "\ud83d\udc26\u200d\u2b1b",
+    "title": "\u229b black bird",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-87",
+    "symbol": "\ud83e\udebfNew",
+    "title": "goose",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-88",
+    "symbol": "\ud83d\udc38",
+    "title": "frog",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-89",
+    "symbol": "\ud83d\udc0a",
+    "title": "crocodile",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-90",
+    "symbol": "\ud83d\udc22",
+    "title": "turtle",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-91",
+    "symbol": "\ud83e\udd8e",
+    "title": "lizard",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-92",
+    "symbol": "\ud83d\udc0d",
+    "title": "snake",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-93",
+    "symbol": "\ud83d\udc32",
+    "title": "dragon face",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-94",
+    "symbol": "\ud83d\udc09",
+    "title": "dragon",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-95",
+    "symbol": "\ud83e\udd95",
+    "title": "sauropod",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-96",
+    "symbol": "\ud83e\udd96",
+    "title": "T-Rex",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-97",
+    "symbol": "\ud83d\udc33",
+    "title": "spouting whale",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-98",
+    "symbol": "\ud83d\udc0b",
+    "title": "whale",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-99",
+    "symbol": "\ud83d\udc2c",
+    "title": "dolphin",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-100",
+    "symbol": "\ud83e\uddad",
+    "title": "seal",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-101",
+    "symbol": "\ud83d\udc1f",
+    "title": "fish",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-102",
+    "symbol": "\ud83d\udc20",
+    "title": "tropical fish",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-103",
+    "symbol": "\ud83d\udc21",
+    "title": "blowfish",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-104",
+    "symbol": "\ud83e\udd88",
+    "title": "shark",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-105",
+    "symbol": "\ud83d\udc19",
+    "title": "octopus",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-106",
+    "symbol": "\ud83d\udc1a",
+    "title": "spiral shell",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-107",
+    "symbol": "\ud83e\udeb8",
+    "title": "coral",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-108",
+    "symbol": "\ud83e\udebcNew",
+    "title": "jellyfish",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-109",
+    "symbol": "\ud83d\udc0c",
+    "title": "snail",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-110",
+    "symbol": "\ud83e\udd8b",
+    "title": "butterfly",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-111",
+    "symbol": "\ud83d\udc1b",
+    "title": "bug",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-112",
+    "symbol": "\ud83d\udc1c",
+    "title": "ant",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-113",
+    "symbol": "\ud83d\udc1d",
+    "title": "honeybee",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-114",
+    "symbol": "\ud83e\udeb2",
+    "title": "beetle",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-115",
+    "symbol": "\ud83d\udc1e",
+    "title": "lady beetle",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-116",
+    "symbol": "\ud83e\udd97",
+    "title": "cricket",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-117",
+    "symbol": "\ud83e\udeb3",
+    "title": "cockroach",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-118",
+    "symbol": "\ud83d\udd77\ufe0f",
+    "title": "spider",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-119",
+    "symbol": "\ud83d\udd78\ufe0f",
+    "title": "spider web",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-120",
+    "symbol": "\ud83e\udd82",
+    "title": "scorpion",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-121",
+    "symbol": "\ud83e\udd9f",
+    "title": "mosquito",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-122",
+    "symbol": "\ud83e\udeb0",
+    "title": "fly",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-123",
+    "symbol": "\ud83e\udeb1",
+    "title": "worm",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-124",
+    "symbol": "\ud83e\udda0",
+    "title": "microbe",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-125",
+    "symbol": "\ud83d\udc90",
+    "title": "bouquet",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-126",
+    "symbol": "\ud83c\udf38",
+    "title": "cherry blossom",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-127",
+    "symbol": "\ud83d\udcae",
+    "title": "white flower",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-128",
+    "symbol": "\ud83e\udeb7",
+    "title": "lotus",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-129",
+    "symbol": "\ud83c\udff5\ufe0f",
+    "title": "rosette",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-130",
+    "symbol": "\ud83c\udf39",
+    "title": "rose",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-131",
+    "symbol": "\ud83e\udd40",
+    "title": "wilted flower",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-132",
+    "symbol": "\ud83c\udf3a",
+    "title": "hibiscus",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-133",
+    "symbol": "\ud83c\udf3b",
+    "title": "sunflower",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-134",
+    "symbol": "\ud83c\udf3c",
+    "title": "blossom",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-135",
+    "symbol": "\ud83c\udf37",
+    "title": "tulip",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-136",
+    "symbol": "\ud83e\udebbNew",
+    "title": "hyacinth",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-137",
+    "symbol": "\ud83c\udf31",
+    "title": "seedling",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-138",
+    "symbol": "\ud83e\udeb4",
+    "title": "potted plant",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-139",
+    "symbol": "\ud83c\udf32",
+    "title": "evergreen tree",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-140",
+    "symbol": "\ud83c\udf33",
+    "title": "deciduous tree",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-141",
+    "symbol": "\ud83c\udf34",
+    "title": "palm tree",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-142",
+    "symbol": "\ud83c\udf35",
+    "title": "cactus",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-143",
+    "symbol": "\ud83c\udf3e",
+    "title": "sheaf of rice",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-144",
+    "symbol": "\ud83c\udf3f",
+    "title": "herb",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-145",
+    "symbol": "\u2618\ufe0f",
+    "title": "shamrock",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-146",
+    "symbol": "\ud83c\udf40",
+    "title": "four leaf clover",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-147",
+    "symbol": "\ud83c\udf41",
+    "title": "maple leaf",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-148",
+    "symbol": "\ud83c\udf42",
+    "title": "fallen leaf",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-149",
+    "symbol": "\ud83c\udf43",
+    "title": "leaf fluttering in wind",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-150",
+    "symbol": "\ud83e\udeb9",
+    "title": "empty nest",
+    "category": "ANIMALS_NATURE"
+  },
+  {
+    "symbol_id": "sym-151",
+    "symbol": "\ud83e\udeba",
+    "title": "nest with eggs",
+    "category": "ANIMALS_NATURE"
+  }
+]

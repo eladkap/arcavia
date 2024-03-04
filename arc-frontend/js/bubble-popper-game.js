@@ -7,6 +7,13 @@ canvas.height = window.innerHeight;
 /* GLOBALS */
 var bubbles = [];
 var queries = [];
+
+var countries = [];
+var animals_symbols = [];
+var food_symbols = [];
+var sports_symbols = [];
+var landmarks = [];
+
 var score = 0;
 
 /* KEYBOARD EVENTS */
@@ -43,11 +50,6 @@ function onMouseOver(event) {
     checkMouseOver(mx, my);
 }
 
-/* PRELOAD METHODS */
-function loadQueries() {
-
-}
-
 /* SETUP METHODS */
 function createBubbles() {
     for (let i = 0; i < SYMBOLS.length; i++) {
@@ -82,9 +84,12 @@ function showWindowSize() {
 
 async function preload(callback) {
     console.log('preload');
-    setTimeout(() => {
-        callback();
-    }, 500);
+    queries = await Loader.loadJsonFile('../data/queries.json');
+    countries = await Loader.loadJsonFile('../data/countries.json');
+    animals_symbols = await Loader.loadJsonFile('../data/animals_nature.json');
+    food_symbols = await Loader.loadJsonFile('../data/food_drinks.json');
+    sports_symbols = await Loader.loadJsonFile('../data/sports.json');
+    callback();
 }
 
 function addToScore(amount) {
@@ -103,6 +108,14 @@ function setup() {
     createBubbles();
 
     initGame();
+}
+
+function showGameSettings() {
+    console.log(queries);
+    console.log(countries);
+    console.log(animals_symbols);
+    console.log(food_symbols);
+    console.log(sports_symbols);
 }
 
 function checkClick(mousePos) {
@@ -127,7 +140,9 @@ function update() {
 
 function runGame() {
     console.log('runGame');
+    showGameSettings();
     setup();
+    document.getElementById('loading-p').style.visibility = 'hidden';
     requestAnimationFrame(update);
 }
 

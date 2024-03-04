@@ -1,0 +1,24 @@
+[
+    {
+        "query_id": 1,
+        "question": "Which is the largest country?",
+        "answers": [
+            "germany",
+            "france",
+            "china",
+            "spain"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "query_id": 2,
+        "question": "Which is the largest fruit?",
+        "answers": [
+            "../assets/img/countryFlags/germany.png",
+            "../assets/img/countryFlags/france.png",
+            "../assets/img/countryFlags/china.png",
+            "../assets/img/countryFlags/spain.png"
+        ],
+        "correctAnswerIndex": 2
+    }
+]

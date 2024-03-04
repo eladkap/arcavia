@@ -1,0 +1,806 @@
+[
+  {
+    "symbol_id": "sym-152",
+    "symbol": "\ud83c\udf44",
+    "title": "mushroom",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-153",
+    "symbol": "\ud83c\udf47",
+    "title": "grapes",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-154",
+    "symbol": "\ud83c\udf48",
+    "title": "melon",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-155",
+    "symbol": "\ud83c\udf49",
+    "title": "watermelon",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-156",
+    "symbol": "\ud83c\udf4a",
+    "title": "tangerine",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-157",
+    "symbol": "\ud83c\udf4b",
+    "title": "lemon",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-158",
+    "symbol": "\ud83c\udf4c",
+    "title": "banana",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-159",
+    "symbol": "\ud83c\udf4d",
+    "title": "pineapple",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-160",
+    "symbol": "\ud83e\udd6d",
+    "title": "mango",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-161",
+    "symbol": "\ud83c\udf4e",
+    "title": "red apple",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-162",
+    "symbol": "\ud83c\udf4f",
+    "title": "green apple",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-163",
+    "symbol": "\ud83c\udf50",
+    "title": "pear",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-164",
+    "symbol": "\ud83c\udf51",
+    "title": "peach",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-165",
+    "symbol": "\ud83c\udf52",
+    "title": "cherries",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-166",
+    "symbol": "\ud83c\udf53",
+    "title": "strawberry",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-167",
+    "symbol": "\ud83e\uded0",
+    "title": "blueberries",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-168",
+    "symbol": "\ud83e\udd5d",
+    "title": "kiwi fruit",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-169",
+    "symbol": "\ud83c\udf45",
+    "title": "tomato",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-170",
+    "symbol": "\ud83e\uded2",
+    "title": "olive",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-171",
+    "symbol": "\ud83e\udd65",
+    "title": "coconut",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-172",
+    "symbol": "\ud83e\udd51",
+    "title": "avocado",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-173",
+    "symbol": "\ud83c\udf46",
+    "title": "eggplant",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-174",
+    "symbol": "\ud83e\udd54",
+    "title": "potato",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-175",
+    "symbol": "\ud83e\udd55",
+    "title": "carrot",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-176",
+    "symbol": "\ud83c\udf3d",
+    "title": "ear of corn",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-177",
+    "symbol": "\ud83c\udf36\ufe0f",
+    "title": "hot pepper",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-178",
+    "symbol": "\ud83e\uded1",
+    "title": "bell pepper",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-179",
+    "symbol": "\ud83e\udd52",
+    "title": "cucumber",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-180",
+    "symbol": "\ud83e\udd6c",
+    "title": "leafy green",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-181",
+    "symbol": "\ud83e\udd66",
+    "title": "broccoli",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-182",
+    "symbol": "\ud83e\uddc4",
+    "title": "garlic",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-183",
+    "symbol": "\ud83e\uddc5",
+    "title": "onion",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-184",
+    "symbol": "\ud83e\udd5c",
+    "title": "peanuts",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-185",
+    "symbol": "\ud83e\uded8",
+    "title": "beans",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-186",
+    "symbol": "\ud83c\udf30",
+    "title": "chestnut",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-187",
+    "symbol": "\ud83e\udedaNew",
+    "title": "ginger root",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-188",
+    "symbol": "\ud83e\udedbNew",
+    "title": "pea pod",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-189",
+    "symbol": "\ud83c\udf5e",
+    "title": "bread",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-190",
+    "symbol": "\ud83e\udd50",
+    "title": "croissant",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-191",
+    "symbol": "\ud83e\udd56",
+    "title": "baguette bread",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-192",
+    "symbol": "\ud83e\uded3",
+    "title": "flatbread",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-193",
+    "symbol": "\ud83e\udd68",
+    "title": "pretzel",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-194",
+    "symbol": "\ud83e\udd6f",
+    "title": "bagel",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-195",
+    "symbol": "\ud83e\udd5e",
+    "title": "pancakes",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-196",
+    "symbol": "\ud83e\uddc7",
+    "title": "waffle",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-197",
+    "symbol": "\ud83e\uddc0",
+    "title": "cheese wedge",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-198",
+    "symbol": "\ud83c\udf56",
+    "title": "meat on bone",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-199",
+    "symbol": "\ud83c\udf57",
+    "title": "poultry leg",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-200",
+    "symbol": "\ud83e\udd69",
+    "title": "cut of meat",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-201",
+    "symbol": "\ud83e\udd53",
+    "title": "bacon",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-202",
+    "symbol": "\ud83c\udf54",
+    "title": "hamburger",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-203",
+    "symbol": "\ud83c\udf5f",
+    "title": "french fries",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-204",
+    "symbol": "\ud83c\udf55",
+    "title": "pizza",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-205",
+    "symbol": "\ud83c\udf2d",
+    "title": "hot dog",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-206",
+    "symbol": "\ud83e\udd6a",
+    "title": "sandwich",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-207",
+    "symbol": "\ud83c\udf2e",
+    "title": "taco",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-208",
+    "symbol": "\ud83c\udf2f",
+    "title": "burrito",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-209",
+    "symbol": "\ud83e\uded4",
+    "title": "tamale",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-210",
+    "symbol": "\ud83e\udd59",
+    "title": "stuffed flatbread",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-211",
+    "symbol": "\ud83e\uddc6",
+    "title": "falafel",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-212",
+    "symbol": "\ud83e\udd5a",
+    "title": "egg",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-213",
+    "symbol": "\ud83c\udf73",
+    "title": "cooking",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-214",
+    "symbol": "\ud83e\udd58",
+    "title": "shallow pan of food",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-215",
+    "symbol": "\ud83c\udf72",
+    "title": "pot of food",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-216",
+    "symbol": "\ud83e\uded5",
+    "title": "fondue",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-217",
+    "symbol": "\ud83e\udd63",
+    "title": "bowl with spoon",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-218",
+    "symbol": "\ud83e\udd57",
+    "title": "green salad",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-219",
+    "symbol": "\ud83c\udf7f",
+    "title": "popcorn",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-220",
+    "symbol": "\ud83e\uddc8",
+    "title": "butter",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-221",
+    "symbol": "\ud83e\uddc2",
+    "title": "salt",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-222",
+    "symbol": "\ud83e\udd6b",
+    "title": "canned food",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-223",
+    "symbol": "\ud83c\udf71",
+    "title": "bento box",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-224",
+    "symbol": "\ud83c\udf58",
+    "title": "rice cracker",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-225",
+    "symbol": "\ud83c\udf59",
+    "title": "rice ball",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-226",
+    "symbol": "\ud83c\udf5a",
+    "title": "cooked rice",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-227",
+    "symbol": "\ud83c\udf5b",
+    "title": "curry rice",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-228",
+    "symbol": "\ud83c\udf5c",
+    "title": "steaming bowl",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-229",
+    "symbol": "\ud83c\udf5d",
+    "title": "spaghetti",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-230",
+    "symbol": "\ud83c\udf60",
+    "title": "roasted sweet potato",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-231",
+    "symbol": "\ud83c\udf62",
+    "title": "oden",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-232",
+    "symbol": "\ud83c\udf63",
+    "title": "sushi",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-233",
+    "symbol": "\ud83c\udf64",
+    "title": "fried shrimp",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-234",
+    "symbol": "\ud83c\udf65",
+    "title": "fish cake with swirl",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-235",
+    "symbol": "\ud83e\udd6e",
+    "title": "moon cake",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-236",
+    "symbol": "\ud83c\udf61",
+    "title": "dango",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-237",
+    "symbol": "\ud83e\udd5f",
+    "title": "dumpling",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-238",
+    "symbol": "\ud83e\udd60",
+    "title": "fortune cookie",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-239",
+    "symbol": "\ud83e\udd61",
+    "title": "takeout box",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-240",
+    "symbol": "\ud83e\udd80",
+    "title": "crab",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-241",
+    "symbol": "\ud83e\udd9e",
+    "title": "lobster",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-242",
+    "symbol": "\ud83e\udd90",
+    "title": "shrimp",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-243",
+    "symbol": "\ud83e\udd91",
+    "title": "squid",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-244",
+    "symbol": "\ud83e\uddaa",
+    "title": "oyster",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-245",
+    "symbol": "\ud83c\udf66",
+    "title": "soft ice cream",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-246",
+    "symbol": "\ud83c\udf67",
+    "title": "shaved ice",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-247",
+    "symbol": "\ud83c\udf68",
+    "title": "ice cream",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-248",
+    "symbol": "\ud83c\udf69",
+    "title": "doughnut",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-249",
+    "symbol": "\ud83c\udf6a",
+    "title": "cookie",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-250",
+    "symbol": "\ud83c\udf82",
+    "title": "birthday cake",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-251",
+    "symbol": "\ud83c\udf70",
+    "title": "shortcake",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-252",
+    "symbol": "\ud83e\uddc1",
+    "title": "cupcake",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-253",
+    "symbol": "\ud83e\udd67",
+    "title": "pie",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-254",
+    "symbol": "\ud83c\udf6b",
+    "title": "chocolate bar",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-255",
+    "symbol": "\ud83c\udf6c",
+    "title": "candy",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-256",
+    "symbol": "\ud83c\udf6d",
+    "title": "lollipop",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-257",
+    "symbol": "\ud83c\udf6e",
+    "title": "custard",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-258",
+    "symbol": "\ud83c\udf6f",
+    "title": "honey pot",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-259",
+    "symbol": "\ud83c\udf7c",
+    "title": "baby bottle",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-260",
+    "symbol": "\ud83e\udd5b",
+    "title": "glass of milk",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-261",
+    "symbol": "\u2615",
+    "title": "hot beverage",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-262",
+    "symbol": "\ud83e\uded6",
+    "title": "teapot",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-263",
+    "symbol": "\ud83c\udf75",
+    "title": "teacup without handle",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-264",
+    "symbol": "\ud83c\udf76",
+    "title": "sake",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-265",
+    "symbol": "\ud83c\udf7e",
+    "title": "bottle with popping cork",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-266",
+    "symbol": "\ud83c\udf77",
+    "title": "wine glass",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-267",
+    "symbol": "\ud83c\udf78",
+    "title": "cocktail glass",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-268",
+    "symbol": "\ud83c\udf79",
+    "title": "tropical drink",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-269",
+    "symbol": "\ud83c\udf7a",
+    "title": "beer mug",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-270",
+    "symbol": "\ud83c\udf7b",
+    "title": "clinking beer mugs",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-271",
+    "symbol": "\ud83e\udd42",
+    "title": "clinking glasses",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-272",
+    "symbol": "\ud83e\udd43",
+    "title": "tumbler glass",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-273",
+    "symbol": "\ud83e\uded7",
+    "title": "pouring liquid",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-274",
+    "symbol": "\ud83e\udd64",
+    "title": "cup with straw",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-275",
+    "symbol": "\ud83e\uddcb",
+    "title": "bubble tea",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-276",
+    "symbol": "\ud83e\uddc3",
+    "title": "beverage box",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-277",
+    "symbol": "\ud83e\uddc9",
+    "title": "mate",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-278",
+    "symbol": "\ud83e\uddca",
+    "title": "ice",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-279",
+    "symbol": "\ud83e\udd62",
+    "title": "chopsticks",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-280",
+    "symbol": "\ud83c\udf7d\ufe0f",
+    "title": "fork and knife with plate",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-281",
+    "symbol": "\ud83c\udf74",
+    "title": "fork and knife",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-282",
+    "symbol": "\ud83e\udd44",
+    "title": "spoon",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-283",
+    "symbol": "\ud83d\udd2a",
+    "title": "kitchen knife",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-284",
+    "symbol": "\ud83e\uded9",
+    "title": "jar",
+    "category": "FOOD_DRINKS"
+  },
+  {
+    "symbol_id": "sym-285",
+    "symbol": "\ud83c\udffa",
+    "title": "amphora",
+    "category": "FOOD_DRINKS"
+  }
+]

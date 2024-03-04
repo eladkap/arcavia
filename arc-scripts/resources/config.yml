@@ -1,6 +1,6 @@
 data:
   countries:
-    enable: false
+    enable: true
   flags:
     enable: false
   symbols:

@@ -1,0 +1,1674 @@
+[
+  {
+    "country_id": "ctr-0",
+    "country": "India",
+    "capital_city": "New Delhi",
+    "flag_img": "c:/arcavia-data/images/flags\\India.gif",
+    "population": 1428627663,
+    "area": 2973190
+  },
+  {
+    "country_id": "ctr-1",
+    "country": "China",
+    "capital_city": "Peking",
+    "flag_img": "c:/arcavia-data/images/flags\\China.gif",
+    "population": 1425671352,
+    "area": 9388211
+  },
+  {
+    "country_id": "ctr-2",
+    "country": "United States",
+    "capital_city": "Washington",
+    "flag_img": "c:/arcavia-data/images/flags\\United States.gif",
+    "population": 339996563,
+    "area": 9147420
+  },
+  {
+    "country_id": "ctr-3",
+    "country": "Indonesia",
+    "capital_city": "Jakarta",
+    "flag_img": "c:/arcavia-data/images/flags\\Indonesia.gif",
+    "population": 277534122,
+    "area": 1811570
+  },
+  {
+    "country_id": "ctr-4",
+    "country": "Pakistan",
+    "capital_city": "Islamabad",
+    "flag_img": "c:/arcavia-data/images/flags\\Pakistan.gif",
+    "population": 240485658,
+    "area": 770880
+  },
+  {
+    "country_id": "ctr-5",
+    "country": "Nigeria",
+    "capital_city": "Abuja",
+    "flag_img": "c:/arcavia-data/images/flags\\Nigeria.gif",
+    "population": 223804632,
+    "area": 910770
+  },
+  {
+    "country_id": "ctr-6",
+    "country": "Brazil",
+    "capital_city": "Brasilia",
+    "flag_img": "c:/arcavia-data/images/flags\\Brazil.gif",
+    "population": 216422446,
+    "area": 8358140
+  },
+  {
+    "country_id": "ctr-7",
+    "country": "Bangladesh",
+    "capital_city": "Dhaka",
+    "flag_img": "c:/arcavia-data/images/flags\\Bangladesh.gif",
+    "population": 172954319,
+    "area": 130170
+  },
+  {
+    "country_id": "ctr-8",
+    "country": "Russia",
+    "capital_city": "Moscow",
+    "flag_img": "c:/arcavia-data/images/flags\\Russia.gif",
+    "population": 144444359,
+    "area": 16376870
+  },
+  {
+    "country_id": "ctr-9",
+    "country": "Mexico",
+    "capital_city": "Ciudad de M",
+    "flag_img": "c:/arcavia-data/images/flags\\Mexico.gif",
+    "population": 128455567,
+    "area": 1943950
+  },
+  {
+    "country_id": "ctr-10",
+    "country": "Ethiopia",
+    "capital_city": "Addis Abeba",
+    "flag_img": "c:/arcavia-data/images/flags\\Ethiopia.gif",
+    "population": 126527060,
+    "area": 1000000
+  },
+  {
+    "country_id": "ctr-11",
+    "country": "Japan",
+    "capital_city": "Tokyo",
+    "flag_img": "c:/arcavia-data/images/flags\\Japan.gif",
+    "population": 123294513,
+    "area": 364555
+  },
+  {
+    "country_id": "ctr-12",
+    "country": "Philippines",
+    "capital_city": "Manila",
+    "flag_img": "c:/arcavia-data/images/flags\\Philippines.gif",
+    "population": 117337368,
+    "area": 298170
+  },
+  {
+    "country_id": "ctr-13",
+    "country": "Egypt",
+    "capital_city": "Cairo",
+    "flag_img": "c:/arcavia-data/images/flags\\Egypt.gif",
+    "population": 112716598,
+    "area": 995450
+  },
+  {
+    "country_id": "ctr-14",
+    "country": "DR Congo",
+    "capital_city": "Kinshasa",
+    "flag_img": "c:/arcavia-data/images/flags\\DR Congo.gif",
+    "population": 102262808,
+    "area": 2267050
+  },
+  {
+    "country_id": "ctr-15",
+    "country": "Vietnam",
+    "capital_city": "Hanoi",
+    "flag_img": "c:/arcavia-data/images/flags\\Vietnam.gif",
+    "population": 98858950,
+    "area": 310070
+  },
+  {
+    "country_id": "ctr-16",
+    "country": "Iran",
+    "capital_city": "Tehran",
+    "flag_img": "c:/arcavia-data/images/flags\\Iran.gif",
+    "population": 89172767,
+    "area": 1628550
+  },
+  {
+    "country_id": "ctr-17",
+    "country": "Turkey",
+    "capital_city": "Ankara",
+    "flag_img": "c:/arcavia-data/images/flags\\Turkey.gif",
+    "population": 85816199,
+    "area": 769630
+  },
+  {
+    "country_id": "ctr-18",
+    "country": "Germany",
+    "capital_city": "Berlin",
+    "flag_img": "c:/arcavia-data/images/flags\\Germany.gif",
+    "population": 83294633,
+    "area": 348560
+  },
+  {
+    "country_id": "ctr-19",
+    "country": "Thailand",
+    "capital_city": "Bangkok",
+    "flag_img": "c:/arcavia-data/images/flags\\Thailand.gif",
+    "population": 71801279,
+    "area": 510890
+  },
+  {
+    "country_id": "ctr-20",
+    "country": "United Kingdom",
+    "capital_city": "London",
+    "flag_img": "c:/arcavia-data/images/flags\\United Kingdom.gif",
+    "population": 67736802,
+    "area": 241930
+  },
+  {
+    "country_id": "ctr-21",
+    "country": "Tanzania",
+    "capital_city": "Dodoma",
+    "flag_img": "c:/arcavia-data/images/flags\\Tanzania.gif",
+    "population": 67438106,
+    "area": 885800
+  },
+  {
+    "country_id": "ctr-22",
+    "country": "France",
+    "capital_city": "Paris",
+    "flag_img": "c:/arcavia-data/images/flags\\France.gif",
+    "population": 64756584,
+    "area": 547557
+  },
+  {
+    "country_id": "ctr-23",
+    "country": "South Africa",
+    "capital_city": "Pretoria",
+    "flag_img": "c:/arcavia-data/images/flags\\South Africa.gif",
+    "population": 60414495,
+    "area": 1213090
+  },
+  {
+    "country_id": "ctr-24",
+    "country": "Italy",
+    "capital_city": "Roma",
+    "flag_img": "c:/arcavia-data/images/flags\\Italy.gif",
+    "population": 58870762,
+    "area": 294140
+  },
+  {
+    "country_id": "ctr-25",
+    "country": "Kenya",
+    "capital_city": "Nairobi",
+    "flag_img": "c:/arcavia-data/images/flags\\Kenya.gif",
+    "population": 55100586,
+    "area": 569140
+  },
+  {
+    "country_id": "ctr-26",
+    "country": "Myanmar",
+    "capital_city": "Rangoon (Yangon)",
+    "flag_img": "c:/arcavia-data/images/flags\\Myanmar.gif",
+    "population": 54577997,
+    "area": 653290
+  },
+  {
+    "country_id": "ctr-27",
+    "country": "Colombia",
+    "capital_city": "Santaf",
+    "flag_img": "c:/arcavia-data/images/flags\\Colombia.gif",
+    "population": 52085168,
+    "area": 1109500
+  },
+  {
+    "country_id": "ctr-28",
+    "country": "South Korea",
+    "capital_city": "Seoul",
+    "flag_img": "c:/arcavia-data/images/flags\\South Korea.gif",
+    "population": 51784059,
+    "area": 97230
+  },
+  {
+    "country_id": "ctr-29",
+    "country": "Uganda",
+    "capital_city": "Kampala",
+    "flag_img": "c:/arcavia-data/images/flags\\Uganda.gif",
+    "population": 48582334,
+    "area": 199810
+  },
+  {
+    "country_id": "ctr-30",
+    "country": "Sudan",
+    "capital_city": "Khartum",
+    "flag_img": "c:/arcavia-data/images/flags\\Sudan.gif",
+    "population": 48109006,
+    "area": 1765048
+  },
+  {
+    "country_id": "ctr-31",
+    "country": "Spain",
+    "capital_city": "Madrid",
+    "flag_img": "c:/arcavia-data/images/flags\\Spain.gif",
+    "population": 47519628,
+    "area": 498800
+  },
+  {
+    "country_id": "ctr-32",
+    "country": "Argentina",
+    "capital_city": "Buenos Aires",
+    "flag_img": "c:/arcavia-data/images/flags\\Argentina.gif",
+    "population": 45773884,
+    "area": 2736690
+  },
+  {
+    "country_id": "ctr-33",
+    "country": "Algeria",
+    "capital_city": "Alger",
+    "flag_img": "c:/arcavia-data/images/flags\\Algeria.gif",
+    "population": 45606480,
+    "area": 2381740
+  },
+  {
+    "country_id": "ctr-34",
+    "country": "Iraq",
+    "capital_city": "Baghdad",
+    "flag_img": "c:/arcavia-data/images/flags\\Iraq.gif",
+    "population": 45504560,
+    "area": 434320
+  },
+  {
+    "country_id": "ctr-35",
+    "country": "Afghanistan",
+    "capital_city": "Kabul",
+    "flag_img": "c:/arcavia-data/images/flags\\Afghanistan.gif",
+    "population": 42239854,
+    "area": 652860
+  },
+  {
+    "country_id": "ctr-36",
+    "country": "Poland",
+    "capital_city": "Warszawa",
+    "flag_img": "c:/arcavia-data/images/flags\\Poland.gif",
+    "population": 41026067,
+    "area": 306230
+  },
+  {
+    "country_id": "ctr-37",
+    "country": "Canada",
+    "capital_city": "Ottawa",
+    "flag_img": "c:/arcavia-data/images/flags\\Canada.gif",
+    "population": 38781291,
+    "area": 9093510
+  },
+  {
+    "country_id": "ctr-38",
+    "country": "Morocco",
+    "capital_city": "Rabat",
+    "flag_img": "c:/arcavia-data/images/flags\\Morocco.gif",
+    "population": 37840044,
+    "area": 446300
+  },
+  {
+    "country_id": "ctr-39",
+    "country": "Saudi Arabia",
+    "capital_city": "Riyadh",
+    "flag_img": "c:/arcavia-data/images/flags\\Saudi Arabia.gif",
+    "population": 36947025,
+    "area": 2149690
+  },
+  {
+    "country_id": "ctr-40",
+    "country": "Ukraine",
+    "capital_city": "Kyiv",
+    "flag_img": "c:/arcavia-data/images/flags\\Ukraine.gif",
+    "population": 36744634,
+    "area": 579320
+  },
+  {
+    "country_id": "ctr-41",
+    "country": "Angola",
+    "capital_city": "Luanda",
+    "flag_img": "c:/arcavia-data/images/flags\\Angola.gif",
+    "population": 36684202,
+    "area": 1246700
+  },
+  {
+    "country_id": "ctr-42",
+    "country": "Uzbekistan",
+    "capital_city": "Toskent",
+    "flag_img": "c:/arcavia-data/images/flags\\Uzbekistan.gif",
+    "population": 35163944,
+    "area": 425400
+  },
+  {
+    "country_id": "ctr-43",
+    "country": "Yemen",
+    "capital_city": "Sanaa",
+    "flag_img": "c:/arcavia-data/images/flags\\Yemen.gif",
+    "population": 34449825,
+    "area": 527970
+  },
+  {
+    "country_id": "ctr-44",
+    "country": "Peru",
+    "capital_city": "Lima",
+    "flag_img": "c:/arcavia-data/images/flags\\Peru.gif",
+    "population": 34352719,
+    "area": 1280000
+  },
+  {
+    "country_id": "ctr-45",
+    "country": "Malaysia",
+    "capital_city": "Kuala Lumpur",
+    "flag_img": "c:/arcavia-data/images/flags\\Malaysia.gif",
+    "population": 34308525,
+    "area": 328550
+  },
+  {
+    "country_id": "ctr-46",
+    "country": "Ghana",
+    "capital_city": "Accra",
+    "flag_img": "c:/arcavia-data/images/flags\\Ghana.gif",
+    "population": 34121985,
+    "area": 227540
+  },
+  {
+    "country_id": "ctr-47",
+    "country": "Mozambique",
+    "capital_city": "Maputo",
+    "flag_img": "c:/arcavia-data/images/flags\\Mozambique.gif",
+    "population": 33897354,
+    "area": 786380
+  },
+  {
+    "country_id": "ctr-48",
+    "country": "Nepal",
+    "capital_city": "Kathmandu",
+    "flag_img": "c:/arcavia-data/images/flags\\Nepal.gif",
+    "population": 30896590,
+    "area": 143350
+  },
+  {
+    "country_id": "ctr-49",
+    "country": "Madagascar",
+    "capital_city": "Antananarivo",
+    "flag_img": "c:/arcavia-data/images/flags\\Madagascar.gif",
+    "population": 30325732,
+    "area": 581795
+  },
+  {
+    "country_id": "ctr-51",
+    "country": "Venezuela",
+    "capital_city": "Caracas",
+    "flag_img": "c:/arcavia-data/images/flags\\Venezuela.gif",
+    "population": 28838499,
+    "area": 882050
+  },
+  {
+    "country_id": "ctr-52",
+    "country": "Cameroon",
+    "capital_city": "Yaounde",
+    "flag_img": "c:/arcavia-data/images/flags\\Cameroon.gif",
+    "population": 28647293,
+    "area": 472710
+  },
+  {
+    "country_id": "ctr-53",
+    "country": "Niger",
+    "capital_city": "Niamey",
+    "flag_img": "c:/arcavia-data/images/flags\\Niger.gif",
+    "population": 27202843,
+    "area": 1266700
+  },
+  {
+    "country_id": "ctr-54",
+    "country": "Australia",
+    "capital_city": "Canberra",
+    "flag_img": "c:/arcavia-data/images/flags\\Australia.gif",
+    "population": 26439111,
+    "area": 7682300
+  },
+  {
+    "country_id": "ctr-55",
+    "country": "North Korea",
+    "capital_city": "Pyongyang",
+    "flag_img": "c:/arcavia-data/images/flags\\North Korea.gif",
+    "population": 26160821,
+    "area": 120410
+  },
+  {
+    "country_id": "ctr-57",
+    "country": "Mali",
+    "capital_city": "Bamako",
+    "flag_img": "c:/arcavia-data/images/flags\\Mali.gif",
+    "population": 23293698,
+    "area": 1220190
+  },
+  {
+    "country_id": "ctr-58",
+    "country": "Burkina Faso",
+    "capital_city": "Ouagadougou",
+    "flag_img": "c:/arcavia-data/images/flags\\Burkina Faso.gif",
+    "population": 23251485,
+    "area": 273600
+  },
+  {
+    "country_id": "ctr-59",
+    "country": "Syria",
+    "capital_city": "Damascus",
+    "flag_img": "c:/arcavia-data/images/flags\\Syria.gif",
+    "population": 23227014,
+    "area": 183630
+  },
+  {
+    "country_id": "ctr-60",
+    "country": "Sri Lanka",
+    "capital_city": "Colombo, Sri Jayawardenepura Kotte",
+    "flag_img": "c:/arcavia-data/images/flags\\Sri Lanka.gif",
+    "population": 21893579,
+    "area": 62710
+  },
+  {
+    "country_id": "ctr-61",
+    "country": "Malawi",
+    "capital_city": "Lilongwe",
+    "flag_img": "c:/arcavia-data/images/flags\\Malawi.gif",
+    "population": 20931751,
+    "area": 94280
+  },
+  {
+    "country_id": "ctr-62",
+    "country": "Zambia",
+    "capital_city": "Lusaka",
+    "flag_img": "c:/arcavia-data/images/flags\\Zambia.gif",
+    "population": 20569737,
+    "area": 743390
+  },
+  {
+    "country_id": "ctr-63",
+    "country": "Romania",
+    "capital_city": "Bucuresti",
+    "flag_img": "c:/arcavia-data/images/flags\\Romania.gif",
+    "population": 19892812,
+    "area": 230170
+  },
+  {
+    "country_id": "ctr-64",
+    "country": "Chile",
+    "capital_city": "Santiago de Chile",
+    "flag_img": "c:/arcavia-data/images/flags\\Chile.gif",
+    "population": 19629590,
+    "area": 743532
+  },
+  {
+    "country_id": "ctr-65",
+    "country": "Kazakhstan",
+    "capital_city": "Astana",
+    "flag_img": "c:/arcavia-data/images/flags\\Kazakhstan.gif",
+    "population": 19606633,
+    "area": 2699700
+  },
+  {
+    "country_id": "ctr-66",
+    "country": "Chad",
+    "capital_city": "N'Djamena",
+    "flag_img": "c:/arcavia-data/images/flags\\Chad.gif",
+    "population": 18278568,
+    "area": 1259200
+  },
+  {
+    "country_id": "ctr-67",
+    "country": "Ecuador",
+    "capital_city": "Quito",
+    "flag_img": "c:/arcavia-data/images/flags\\Ecuador.gif",
+    "population": 18190484,
+    "area": 248360
+  },
+  {
+    "country_id": "ctr-68",
+    "country": "Somalia",
+    "capital_city": "Mogadishu",
+    "flag_img": "c:/arcavia-data/images/flags\\Somalia.gif",
+    "population": 18143378,
+    "area": 627340
+  },
+  {
+    "country_id": "ctr-69",
+    "country": "Guatemala",
+    "capital_city": "Ciudad de Guatemala",
+    "flag_img": "c:/arcavia-data/images/flags\\Guatemala.gif",
+    "population": 18092026,
+    "area": 107160
+  },
+  {
+    "country_id": "ctr-70",
+    "country": "Senegal",
+    "capital_city": "Dakar",
+    "flag_img": "c:/arcavia-data/images/flags\\Senegal.gif",
+    "population": 17763163,
+    "area": 192530
+  },
+  {
+    "country_id": "ctr-71",
+    "country": "Netherlands",
+    "capital_city": "Amsterdam",
+    "flag_img": "c:/arcavia-data/images/flags\\Netherlands.gif",
+    "population": 17618299,
+    "area": 33720
+  },
+  {
+    "country_id": "ctr-72",
+    "country": "Cambodia",
+    "capital_city": "Phnom Penh",
+    "flag_img": "c:/arcavia-data/images/flags\\Cambodia.gif",
+    "population": 16944826,
+    "area": 176520
+  },
+  {
+    "country_id": "ctr-73",
+    "country": "Zimbabwe",
+    "capital_city": "Harare",
+    "flag_img": "c:/arcavia-data/images/flags\\Zimbabwe.gif",
+    "population": 16665409,
+    "area": 386850
+  },
+  {
+    "country_id": "ctr-74",
+    "country": "Guinea",
+    "capital_city": "Conakry",
+    "flag_img": "c:/arcavia-data/images/flags\\Guinea.gif",
+    "population": 14190612,
+    "area": 245720
+  },
+  {
+    "country_id": "ctr-75",
+    "country": "Rwanda",
+    "capital_city": "Kigali",
+    "flag_img": "c:/arcavia-data/images/flags\\Rwanda.gif",
+    "population": 14094683,
+    "area": 24670
+  },
+  {
+    "country_id": "ctr-76",
+    "country": "Benin",
+    "capital_city": "Porto-Novo",
+    "flag_img": "c:/arcavia-data/images/flags\\Benin.gif",
+    "population": 13712828,
+    "area": 112760
+  },
+  {
+    "country_id": "ctr-77",
+    "country": "Burundi",
+    "capital_city": "Bujumbura",
+    "flag_img": "c:/arcavia-data/images/flags\\Burundi.gif",
+    "population": 13238559,
+    "area": 25680
+  },
+  {
+    "country_id": "ctr-78",
+    "country": "Tunisia",
+    "capital_city": "Tunis",
+    "flag_img": "c:/arcavia-data/images/flags\\Tunisia.gif",
+    "population": 12458223,
+    "area": 155360
+  },
+  {
+    "country_id": "ctr-79",
+    "country": "Bolivia",
+    "capital_city": "La Paz",
+    "flag_img": "c:/arcavia-data/images/flags\\Bolivia.gif",
+    "population": 12388571,
+    "area": 1083300
+  },
+  {
+    "country_id": "ctr-80",
+    "country": "Haiti",
+    "capital_city": "Port-au-Prince",
+    "flag_img": "c:/arcavia-data/images/flags\\Haiti.gif",
+    "population": 11724763,
+    "area": 27560
+  },
+  {
+    "country_id": "ctr-81",
+    "country": "Belgium",
+    "capital_city": "Brussel",
+    "flag_img": "c:/arcavia-data/images/flags\\Belgium.gif",
+    "population": 11686140,
+    "area": 30280
+  },
+  {
+    "country_id": "ctr-82",
+    "country": "Jordan",
+    "capital_city": "Amman",
+    "flag_img": "c:/arcavia-data/images/flags\\Jordan.gif",
+    "population": 11337052,
+    "area": 88780
+  },
+  {
+    "country_id": "ctr-83",
+    "country": "Dominican Republic",
+    "capital_city": "Santo Domingo de Guzm",
+    "flag_img": "c:/arcavia-data/images/flags\\Dominican Republic.gif",
+    "population": 11332972,
+    "area": 48320
+  },
+  {
+    "country_id": "ctr-84",
+    "country": "Cuba",
+    "capital_city": "La Habana",
+    "flag_img": "c:/arcavia-data/images/flags\\Cuba.gif",
+    "population": 11194449,
+    "area": 106440
+  },
+  {
+    "country_id": "ctr-85",
+    "country": "South Sudan",
+    "capital_city": "Juba",
+    "flag_img": "c:/arcavia-data/images/flags\\South Sudan.gif",
+    "population": 11088796,
+    "area": 610952
+  },
+  {
+    "country_id": "ctr-86",
+    "country": "Sweden",
+    "capital_city": "Stockholm",
+    "flag_img": "c:/arcavia-data/images/flags\\Sweden.gif",
+    "population": 10612086,
+    "area": 410340
+  },
+  {
+    "country_id": "ctr-87",
+    "country": "Honduras",
+    "capital_city": "Tegucigalpa",
+    "flag_img": "c:/arcavia-data/images/flags\\Honduras.gif",
+    "population": 10593798,
+    "area": 111890
+  },
+  {
+    "country_id": "ctr-88",
+    "country": "Czech Republic",
+    "capital_city": "Praha",
+    "flag_img": "c:/arcavia-data/images/flags\\Czech Republic.gif",
+    "population": 10495295,
+    "area": 77240
+  },
+  {
+    "country_id": "ctr-89",
+    "country": "Azerbaijan",
+    "capital_city": "Baku",
+    "flag_img": "c:/arcavia-data/images/flags\\Azerbaijan.gif",
+    "population": 10412651,
+    "area": 82658
+  },
+  {
+    "country_id": "ctr-90",
+    "country": "Greece",
+    "capital_city": "Athenai",
+    "flag_img": "c:/arcavia-data/images/flags\\Greece.gif",
+    "population": 10341277,
+    "area": 128900
+  },
+  {
+    "country_id": "ctr-91",
+    "country": "Papua New Guinea",
+    "capital_city": "Port Moresby",
+    "flag_img": "c:/arcavia-data/images/flags\\Papua New Guinea.gif",
+    "population": 10329931,
+    "area": 452860
+  },
+  {
+    "country_id": "ctr-92",
+    "country": "Portugal",
+    "capital_city": "Lisboa",
+    "flag_img": "c:/arcavia-data/images/flags\\Portugal.gif",
+    "population": 10247605,
+    "area": 91590
+  },
+  {
+    "country_id": "ctr-93",
+    "country": "Hungary",
+    "capital_city": "Budapest",
+    "flag_img": "c:/arcavia-data/images/flags\\Hungary.gif",
+    "population": 10156239,
+    "area": 90530
+  },
+  {
+    "country_id": "ctr-94",
+    "country": "Tajikistan",
+    "capital_city": "Dushanbe",
+    "flag_img": "c:/arcavia-data/images/flags\\Tajikistan.gif",
+    "population": 10143543,
+    "area": 139960
+  },
+  {
+    "country_id": "ctr-95",
+    "country": "United Arab Emirates",
+    "capital_city": "Abu Dhabi",
+    "flag_img": "c:/arcavia-data/images/flags\\United Arab Emirates.gif",
+    "population": 9516871,
+    "area": 83600
+  },
+  {
+    "country_id": "ctr-96",
+    "country": "Belarus",
+    "capital_city": "Minsk",
+    "flag_img": "c:/arcavia-data/images/flags\\Belarus.gif",
+    "population": 9498238,
+    "area": 202910
+  },
+  {
+    "country_id": "ctr-97",
+    "country": "Israel",
+    "capital_city": "Jerusalem",
+    "flag_img": "c:/arcavia-data/images/flags\\Israel.gif",
+    "population": 9174520,
+    "area": 21640
+  },
+  {
+    "country_id": "ctr-98",
+    "country": "Togo",
+    "capital_city": "Lome",
+    "flag_img": "c:/arcavia-data/images/flags\\Togo.gif",
+    "population": 9053799,
+    "area": 54390
+  },
+  {
+    "country_id": "ctr-99",
+    "country": "Austria",
+    "capital_city": "Wien",
+    "flag_img": "c:/arcavia-data/images/flags\\Austria.gif",
+    "population": 8958960,
+    "area": 82409
+  },
+  {
+    "country_id": "ctr-100",
+    "country": "Switzerland",
+    "capital_city": "Bern",
+    "flag_img": "c:/arcavia-data/images/flags\\Switzerland.gif",
+    "population": 8796669,
+    "area": 39516
+  },
+  {
+    "country_id": "ctr-101",
+    "country": "Sierra Leone",
+    "capital_city": "Freetown",
+    "flag_img": "c:/arcavia-data/images/flags\\Sierra Leone.gif",
+    "population": 8791092,
+    "area": 72180
+  },
+  {
+    "country_id": "ctr-102",
+    "country": "Laos",
+    "capital_city": "Vientiane",
+    "flag_img": "c:/arcavia-data/images/flags\\Laos.gif",
+    "population": 7633779,
+    "area": 230800
+  },
+  {
+    "country_id": "ctr-103",
+    "country": "Hong Kong",
+    "capital_city": "Victoria",
+    "flag_img": "c:/arcavia-data/images/flags\\Hong Kong.gif",
+    "population": 7491609,
+    "area": 1050
+  },
+  {
+    "country_id": "ctr-104",
+    "country": "Serbia",
+    "capital_city": "Belgrade",
+    "flag_img": "c:/arcavia-data/images/flags\\Serbia.gif",
+    "population": 7149077,
+    "area": 87460
+  },
+  {
+    "country_id": "ctr-105",
+    "country": "Nicaragua",
+    "capital_city": "Managua",
+    "flag_img": "c:/arcavia-data/images/flags\\Nicaragua.gif",
+    "population": 7046310,
+    "area": 120340
+  },
+  {
+    "country_id": "ctr-107",
+    "country": "Paraguay",
+    "capital_city": "Asunci\u00c3\u00b3n",
+    "flag_img": "c:/arcavia-data/images/flags\\Paraguay.gif",
+    "population": 6861524,
+    "area": 397300
+  },
+  {
+    "country_id": "ctr-108",
+    "country": "Kyrgyzstan",
+    "capital_city": "Bishkek",
+    "flag_img": "c:/arcavia-data/images/flags\\Kyrgyzstan.gif",
+    "population": 6735347,
+    "area": 191800
+  },
+  {
+    "country_id": "ctr-109",
+    "country": "Bulgaria",
+    "capital_city": "Sofia",
+    "flag_img": "c:/arcavia-data/images/flags\\Bulgaria.gif",
+    "population": 6687717,
+    "area": 108560
+  },
+  {
+    "country_id": "ctr-110",
+    "country": "Turkmenistan",
+    "capital_city": "Ashgabat",
+    "flag_img": "c:/arcavia-data/images/flags\\Turkmenistan.gif",
+    "population": 6516100,
+    "area": 469930
+  },
+  {
+    "country_id": "ctr-111",
+    "country": "El Salvador",
+    "capital_city": "San Salvador",
+    "flag_img": "c:/arcavia-data/images/flags\\El Salvador.gif",
+    "population": 6364943,
+    "area": 20720
+  },
+  {
+    "country_id": "ctr-112",
+    "country": "Congo",
+    "capital_city": "Brazzaville",
+    "flag_img": "c:/arcavia-data/images/flags\\Congo.gif",
+    "population": 6106869,
+    "area": 341500
+  },
+  {
+    "country_id": "ctr-113",
+    "country": "Singapore",
+    "capital_city": "Singapore",
+    "flag_img": "c:/arcavia-data/images/flags\\Singapore.gif",
+    "population": 6014723,
+    "area": 700
+  },
+  {
+    "country_id": "ctr-114",
+    "country": "Denmark",
+    "capital_city": "Copenhagen",
+    "flag_img": "c:/arcavia-data/images/flags\\Denmark.gif",
+    "population": 5910913,
+    "area": 42430
+  },
+  {
+    "country_id": "ctr-115",
+    "country": "Slovakia",
+    "capital_city": "Bratislava",
+    "flag_img": "c:/arcavia-data/images/flags\\Slovakia.gif",
+    "population": 5795199,
+    "area": 48088
+  },
+  {
+    "country_id": "ctr-116",
+    "country": "Central African Republic",
+    "capital_city": "Bangui",
+    "flag_img": "c:/arcavia-data/images/flags\\Central African Republic.gif",
+    "population": 5742315,
+    "area": 622980
+  },
+  {
+    "country_id": "ctr-117",
+    "country": "Finland",
+    "capital_city": "Helsinki",
+    "flag_img": "c:/arcavia-data/images/flags\\Finland.gif",
+    "population": 5545475,
+    "area": 303890
+  },
+  {
+    "country_id": "ctr-118",
+    "country": "Norway",
+    "capital_city": "Oslo",
+    "flag_img": "c:/arcavia-data/images/flags\\Norway.gif",
+    "population": 5474360,
+    "area": 365268
+  },
+  {
+    "country_id": "ctr-119",
+    "country": "Liberia",
+    "capital_city": "Monrovia",
+    "flag_img": "c:/arcavia-data/images/flags\\Liberia.gif",
+    "population": 5418377,
+    "area": 96320
+  },
+  {
+    "country_id": "ctr-121",
+    "country": "Lebanon",
+    "capital_city": "Beirut",
+    "flag_img": "c:/arcavia-data/images/flags\\Lebanon.gif",
+    "population": 5353930,
+    "area": 10230
+  },
+  {
+    "country_id": "ctr-122",
+    "country": "New Zealand",
+    "capital_city": "Wellington",
+    "flag_img": "c:/arcavia-data/images/flags\\New Zealand.gif",
+    "population": 5228100,
+    "area": 263310
+  },
+  {
+    "country_id": "ctr-123",
+    "country": "Costa Rica",
+    "capital_city": "San Jose",
+    "flag_img": "c:/arcavia-data/images/flags\\Costa Rica.gif",
+    "population": 5212173,
+    "area": 51060
+  },
+  {
+    "country_id": "ctr-124",
+    "country": "Ireland",
+    "capital_city": "Dublin",
+    "flag_img": "c:/arcavia-data/images/flags\\Ireland.gif",
+    "population": 5056935,
+    "area": 68890
+  },
+  {
+    "country_id": "ctr-125",
+    "country": "Mauritania",
+    "capital_city": "Nouakchott",
+    "flag_img": "c:/arcavia-data/images/flags\\Mauritania.gif",
+    "population": 4862989,
+    "area": 1030700
+  },
+  {
+    "country_id": "ctr-126",
+    "country": "Oman",
+    "capital_city": "Masqat",
+    "flag_img": "c:/arcavia-data/images/flags\\Oman.gif",
+    "population": 4644384,
+    "area": 309500
+  },
+  {
+    "country_id": "ctr-127",
+    "country": "Panama",
+    "capital_city": "Ciudad de Panam\u00c3\u00a1",
+    "flag_img": "c:/arcavia-data/images/flags\\Panama.gif",
+    "population": 4468087,
+    "area": 74340
+  },
+  {
+    "country_id": "ctr-128",
+    "country": "Kuwait",
+    "capital_city": "Kuwait",
+    "flag_img": "c:/arcavia-data/images/flags\\Kuwait.gif",
+    "population": 4310108,
+    "area": 17820
+  },
+  {
+    "country_id": "ctr-129",
+    "country": "Croatia",
+    "capital_city": "Zagreb",
+    "flag_img": "c:/arcavia-data/images/flags\\Croatia.gif",
+    "population": 4008617,
+    "area": 55960
+  },
+  {
+    "country_id": "ctr-130",
+    "country": "Eritrea",
+    "capital_city": "Asmara",
+    "flag_img": "c:/arcavia-data/images/flags\\Eritrea.gif",
+    "population": 3748901,
+    "area": 101000
+  },
+  {
+    "country_id": "ctr-131",
+    "country": "Georgia",
+    "capital_city": "Tbilisi",
+    "flag_img": "c:/arcavia-data/images/flags\\Georgia.gif",
+    "population": 3728282,
+    "area": 69490
+  },
+  {
+    "country_id": "ctr-132",
+    "country": "Mongolia",
+    "capital_city": "Ulan Bator",
+    "flag_img": "c:/arcavia-data/images/flags\\Mongolia.gif",
+    "population": 3447157,
+    "area": 1553560
+  },
+  {
+    "country_id": "ctr-133",
+    "country": "Moldova",
+    "capital_city": "Chisinau",
+    "flag_img": "c:/arcavia-data/images/flags\\Moldova.gif",
+    "population": 3435931,
+    "area": 32850
+  },
+  {
+    "country_id": "ctr-134",
+    "country": "Uruguay",
+    "capital_city": "Montevideo",
+    "flag_img": "c:/arcavia-data/images/flags\\Uruguay.gif",
+    "population": 3423108,
+    "area": 175020
+  },
+  {
+    "country_id": "ctr-135",
+    "country": "Puerto Rico",
+    "capital_city": "San Juan",
+    "flag_img": "c:/arcavia-data/images/flags\\Puerto Rico.gif",
+    "population": 3260314,
+    "area": 8870
+  },
+  {
+    "country_id": "ctr-136",
+    "country": "Bosnia and Herzegovina",
+    "capital_city": "Sarajevo",
+    "flag_img": "c:/arcavia-data/images/flags\\Bosnia and Herzegovina.gif",
+    "population": 3210847,
+    "area": 51000
+  },
+  {
+    "country_id": "ctr-137",
+    "country": "Albania",
+    "capital_city": "Tirana",
+    "flag_img": "c:/arcavia-data/images/flags\\Albania.gif",
+    "population": 2832439,
+    "area": 27400
+  },
+  {
+    "country_id": "ctr-138",
+    "country": "Jamaica",
+    "capital_city": "Kingston",
+    "flag_img": "c:/arcavia-data/images/flags\\Jamaica.gif",
+    "population": 2825544,
+    "area": 10830
+  },
+  {
+    "country_id": "ctr-139",
+    "country": "Armenia",
+    "capital_city": "Yerevan",
+    "flag_img": "c:/arcavia-data/images/flags\\Armenia.gif",
+    "population": 2777970,
+    "area": 28470
+  },
+  {
+    "country_id": "ctr-140",
+    "country": "Gambia",
+    "capital_city": "Banjul",
+    "flag_img": "c:/arcavia-data/images/flags\\Gambia.gif",
+    "population": 2773168,
+    "area": 10120
+  },
+  {
+    "country_id": "ctr-141",
+    "country": "Lithuania",
+    "capital_city": "Vilnius",
+    "flag_img": "c:/arcavia-data/images/flags\\Lithuania.gif",
+    "population": 2718352,
+    "area": 62674
+  },
+  {
+    "country_id": "ctr-142",
+    "country": "Qatar",
+    "capital_city": "Doha",
+    "flag_img": "c:/arcavia-data/images/flags\\Qatar.gif",
+    "population": 2716391,
+    "area": 11610
+  },
+  {
+    "country_id": "ctr-143",
+    "country": "Botswana",
+    "capital_city": "Gaborone",
+    "flag_img": "c:/arcavia-data/images/flags\\Botswana.gif",
+    "population": 2675352,
+    "area": 566730
+  },
+  {
+    "country_id": "ctr-144",
+    "country": "Namibia",
+    "capital_city": "Windhoek",
+    "flag_img": "c:/arcavia-data/images/flags\\Namibia.gif",
+    "population": 2604172,
+    "area": 823290
+  },
+  {
+    "country_id": "ctr-145",
+    "country": "Gabon",
+    "capital_city": "Libreville",
+    "flag_img": "c:/arcavia-data/images/flags\\Gabon.gif",
+    "population": 2436566,
+    "area": 257670
+  },
+  {
+    "country_id": "ctr-146",
+    "country": "Lesotho",
+    "capital_city": "Maseru",
+    "flag_img": "c:/arcavia-data/images/flags\\Lesotho.gif",
+    "population": 2330318,
+    "area": 30360
+  },
+  {
+    "country_id": "ctr-147",
+    "country": "Guinea-Bissau",
+    "capital_city": "Bissau",
+    "flag_img": "c:/arcavia-data/images/flags\\Guinea-Bissau.gif",
+    "population": 2150842,
+    "area": 28120
+  },
+  {
+    "country_id": "ctr-148",
+    "country": "Slovenia",
+    "capital_city": "Ljubljana",
+    "flag_img": "c:/arcavia-data/images/flags\\Slovenia.gif",
+    "population": 2119675,
+    "area": 20140
+  },
+  {
+    "country_id": "ctr-149",
+    "country": "North Macedonia",
+    "capital_city": "Skopje",
+    "flag_img": "c:/arcavia-data/images/flags\\North Macedonia.gif",
+    "population": 2085679,
+    "area": 25220
+  },
+  {
+    "country_id": "ctr-150",
+    "country": "Latvia",
+    "capital_city": "Riga",
+    "flag_img": "c:/arcavia-data/images/flags\\Latvia.gif",
+    "population": 1830211,
+    "area": 62200
+  },
+  {
+    "country_id": "ctr-151",
+    "country": "Equatorial Guinea",
+    "capital_city": "Malabo",
+    "flag_img": "c:/arcavia-data/images/flags\\Equatorial Guinea.gif",
+    "population": 1714671,
+    "area": 28050
+  },
+  {
+    "country_id": "ctr-152",
+    "country": "Trinidad and Tobago",
+    "capital_city": "Port-of-Spain",
+    "flag_img": "c:/arcavia-data/images/flags\\Trinidad and Tobago.gif",
+    "population": 1534937,
+    "area": 5130
+  },
+  {
+    "country_id": "ctr-153",
+    "country": "Bahrain",
+    "capital_city": "al-Manama",
+    "flag_img": "c:/arcavia-data/images/flags\\Bahrain.gif",
+    "population": 1485509,
+    "area": 760
+  },
+  {
+    "country_id": "ctr-155",
+    "country": "Estonia",
+    "capital_city": "Tallinn",
+    "flag_img": "c:/arcavia-data/images/flags\\Estonia.gif",
+    "population": 1322765,
+    "area": 42390
+  },
+  {
+    "country_id": "ctr-156",
+    "country": "Mauritius",
+    "capital_city": "Port-Louis",
+    "flag_img": "c:/arcavia-data/images/flags\\Mauritius.gif",
+    "population": 1300557,
+    "area": 2030
+  },
+  {
+    "country_id": "ctr-157",
+    "country": "Cyprus",
+    "capital_city": "Nicosia",
+    "flag_img": "c:/arcavia-data/images/flags\\Cyprus.gif",
+    "population": 1260138,
+    "area": 9240
+  },
+  {
+    "country_id": "ctr-159",
+    "country": "Djibouti",
+    "capital_city": "Djibouti",
+    "flag_img": "c:/arcavia-data/images/flags\\Djibouti.gif",
+    "population": 1136455,
+    "area": 23180
+  },
+  {
+    "country_id": "ctr-162",
+    "country": "Comoros",
+    "capital_city": "Moroni",
+    "flag_img": "c:/arcavia-data/images/flags\\Comoros.gif",
+    "population": 852075,
+    "area": 1861
+  },
+  {
+    "country_id": "ctr-163",
+    "country": "Guyana",
+    "capital_city": "Georgetown",
+    "flag_img": "c:/arcavia-data/images/flags\\Guyana.gif",
+    "population": 813834,
+    "area": 196850
+  },
+  {
+    "country_id": "ctr-164",
+    "country": "Bhutan",
+    "capital_city": "Thimphu",
+    "flag_img": "c:/arcavia-data/images/flags\\Bhutan.gif",
+    "population": 787424,
+    "area": 38117
+  },
+  {
+    "country_id": "ctr-165",
+    "country": "Solomon Islands",
+    "capital_city": "Honiara",
+    "flag_img": "c:/arcavia-data/images/flags\\Solomon Islands.gif",
+    "population": 740424,
+    "area": 27990
+  },
+  {
+    "country_id": "ctr-166",
+    "country": "Macao",
+    "capital_city": "Macao",
+    "flag_img": "c:/arcavia-data/images/flags\\Macao.gif",
+    "population": 704149,
+    "area": 30
+  },
+  {
+    "country_id": "ctr-167",
+    "country": "Luxembourg",
+    "capital_city": "Luxembourg",
+    "flag_img": "c:/arcavia-data/images/flags\\Luxembourg.gif",
+    "population": 654768,
+    "area": 2590
+  },
+  {
+    "country_id": "ctr-168",
+    "country": "Montenegro",
+    "capital_city": "Podgorica",
+    "flag_img": "c:/arcavia-data/images/flags\\Montenegro.gif",
+    "population": 626485,
+    "area": 13450
+  },
+  {
+    "country_id": "ctr-169",
+    "country": "Suriname",
+    "capital_city": "Paramaribo",
+    "flag_img": "c:/arcavia-data/images/flags\\Suriname.gif",
+    "population": 623236,
+    "area": 156000
+  },
+  {
+    "country_id": "ctr-171",
+    "country": "Western Sahara",
+    "capital_city": "El-Aai",
+    "flag_img": "c:/arcavia-data/images/flags\\Western Sahara.gif",
+    "population": 587259,
+    "area": 266000
+  },
+  {
+    "country_id": "ctr-172",
+    "country": "Micronesia",
+    "capital_city": "Palikir",
+    "flag_img": "c:/arcavia-data/images/flags\\Micronesia.gif",
+    "population": 544321,
+    "area": 700
+  },
+  {
+    "country_id": "ctr-173",
+    "country": "Malta",
+    "capital_city": "Valletta",
+    "flag_img": "c:/arcavia-data/images/flags\\Malta.gif",
+    "population": 535064,
+    "area": 320
+  },
+  {
+    "country_id": "ctr-174",
+    "country": "Maldives",
+    "capital_city": "Male",
+    "flag_img": "c:/arcavia-data/images/flags\\Maldives.gif",
+    "population": 521021,
+    "area": 300
+  },
+  {
+    "country_id": "ctr-175",
+    "country": "Brunei",
+    "capital_city": "Bandar Seri Begawan",
+    "flag_img": "c:/arcavia-data/images/flags\\Brunei.gif",
+    "population": 452524,
+    "area": 5270
+  },
+  {
+    "country_id": "ctr-176",
+    "country": "Bahamas",
+    "capital_city": "Nassau",
+    "flag_img": "c:/arcavia-data/images/flags\\Bahamas.gif",
+    "population": 412623,
+    "area": 10010
+  },
+  {
+    "country_id": "ctr-177",
+    "country": "Belize",
+    "capital_city": "Belmopan",
+    "flag_img": "c:/arcavia-data/images/flags\\Belize.gif",
+    "population": 410825,
+    "area": 22810
+  },
+  {
+    "country_id": "ctr-178",
+    "country": "Guadeloupe",
+    "capital_city": "Basse-Terre",
+    "flag_img": "c:/arcavia-data/images/flags\\Guadeloupe.gif",
+    "population": 395839,
+    "area": 1690
+  },
+  {
+    "country_id": "ctr-179",
+    "country": "Iceland",
+    "capital_city": "Reykjav\u00c3\u00adk",
+    "flag_img": "c:/arcavia-data/images/flags\\Iceland.gif",
+    "population": 375318,
+    "area": 100250
+  },
+  {
+    "country_id": "ctr-180",
+    "country": "Martinique",
+    "capital_city": "Fort-de-France",
+    "flag_img": "c:/arcavia-data/images/flags\\Martinique.gif",
+    "population": 366981,
+    "area": 1060
+  },
+  {
+    "country_id": "ctr-181",
+    "country": "Mayotte",
+    "capital_city": "Mamoutzou",
+    "flag_img": "c:/arcavia-data/images/flags\\Mayotte.gif",
+    "population": 335995,
+    "area": 375
+  },
+  {
+    "country_id": "ctr-182",
+    "country": "Vanuatu",
+    "capital_city": "Port-Vila",
+    "flag_img": "c:/arcavia-data/images/flags\\Vanuatu.gif",
+    "population": 334506,
+    "area": 12190
+  },
+  {
+    "country_id": "ctr-183",
+    "country": "French Guiana",
+    "capital_city": "Cayenne",
+    "flag_img": "c:/arcavia-data/images/flags\\French Guiana.gif",
+    "population": 312155,
+    "area": 82200
+  },
+  {
+    "country_id": "ctr-184",
+    "country": "French Polynesia",
+    "capital_city": "Papeete",
+    "flag_img": "c:/arcavia-data/images/flags\\French Polynesia.gif",
+    "population": 308872,
+    "area": 3660
+  },
+  {
+    "country_id": "ctr-185",
+    "country": "New Caledonia",
+    "capital_city": "Noum",
+    "flag_img": "c:/arcavia-data/images/flags\\New Caledonia.gif",
+    "population": 292991,
+    "area": 18280
+  },
+  {
+    "country_id": "ctr-186",
+    "country": "Barbados",
+    "capital_city": "Bridgetown",
+    "flag_img": "c:/arcavia-data/images/flags\\Barbados.gif",
+    "population": 281995,
+    "area": 430
+  },
+  {
+    "country_id": "ctr-188",
+    "country": "Samoa",
+    "capital_city": "Apia",
+    "flag_img": "c:/arcavia-data/images/flags\\Samoa.gif",
+    "population": 225681,
+    "area": 2830
+  },
+  {
+    "country_id": "ctr-190",
+    "country": "Saint Lucia",
+    "capital_city": "Castries",
+    "flag_img": "c:/arcavia-data/images/flags\\Saint Lucia.gif",
+    "population": 180251,
+    "area": 610
+  },
+  {
+    "country_id": "ctr-191",
+    "country": "Guam",
+    "capital_city": "Aga",
+    "flag_img": "c:/arcavia-data/images/flags\\Guam.gif",
+    "population": 172952,
+    "area": 540
+  },
+  {
+    "country_id": "ctr-192",
+    "country": "Kiribati",
+    "capital_city": "Bairiki",
+    "flag_img": "c:/arcavia-data/images/flags\\Kiribati.gif",
+    "population": 133515,
+    "area": 810
+  },
+  {
+    "country_id": "ctr-193",
+    "country": "Grenada",
+    "capital_city": "Saint George's",
+    "flag_img": "c:/arcavia-data/images/flags\\Grenada.gif",
+    "population": 126183,
+    "area": 340
+  },
+  {
+    "country_id": "ctr-194",
+    "country": "Tonga",
+    "capital_city": "Nuku'alofa",
+    "flag_img": "c:/arcavia-data/images/flags\\Tonga.gif",
+    "population": 107773,
+    "area": 720
+  },
+  {
+    "country_id": "ctr-195",
+    "country": "Seychelles",
+    "capital_city": "Victoria",
+    "flag_img": "c:/arcavia-data/images/flags\\Seychelles.gif",
+    "population": 107660,
+    "area": 460
+  },
+  {
+    "country_id": "ctr-196",
+    "country": "Aruba",
+    "capital_city": "Oranjestad",
+    "flag_img": "c:/arcavia-data/images/flags\\Aruba.gif",
+    "population": 106277,
+    "area": 180
+  },
+  {
+    "country_id": "ctr-199",
+    "country": "Antigua and Barbuda",
+    "capital_city": "Saint John's",
+    "flag_img": "c:/arcavia-data/images/flags\\Antigua and Barbuda.gif",
+    "population": 94298,
+    "area": 440
+  },
+  {
+    "country_id": "ctr-201",
+    "country": "Andorra",
+    "capital_city": "Andorra la Vella",
+    "flag_img": "c:/arcavia-data/images/flags\\Andorra.gif",
+    "population": 80088,
+    "area": 470
+  },
+  {
+    "country_id": "ctr-202",
+    "country": "Dominica",
+    "capital_city": "Roseau",
+    "flag_img": "c:/arcavia-data/images/flags\\Dominica.gif",
+    "population": 73040,
+    "area": 750
+  },
+  {
+    "country_id": "ctr-203",
+    "country": "Cayman Islands",
+    "capital_city": "George Town",
+    "flag_img": "c:/arcavia-data/images/flags\\Cayman Islands.gif",
+    "population": 69310,
+    "area": 240
+  },
+  {
+    "country_id": "ctr-204",
+    "country": "Bermuda",
+    "capital_city": "Hamilton",
+    "flag_img": "c:/arcavia-data/images/flags\\Bermuda.gif",
+    "population": 64069,
+    "area": 50
+  },
+  {
+    "country_id": "ctr-205",
+    "country": "Greenland",
+    "capital_city": "Nuuk",
+    "flag_img": "c:/arcavia-data/images/flags\\Greenland.gif",
+    "population": 56643,
+    "area": 410450
+  },
+  {
+    "country_id": "ctr-207",
+    "country": "Northern Mariana Islands",
+    "capital_city": "Garapan",
+    "flag_img": "c:/arcavia-data/images/flags\\Northern Mariana Islands.gif",
+    "population": 49796,
+    "area": 460
+  },
+  {
+    "country_id": "ctr-211",
+    "country": "American Samoa",
+    "capital_city": "Fagatogo",
+    "flag_img": "c:/arcavia-data/images/flags\\American Samoa.gif",
+    "population": 43914,
+    "area": 200
+  },
+  {
+    "country_id": "ctr-212",
+    "country": "Marshall Islands",
+    "capital_city": "Dalap-Uliga-Darrit",
+    "flag_img": "c:/arcavia-data/images/flags\\Marshall Islands.gif",
+    "population": 41996,
+    "area": 180
+  },
+  {
+    "country_id": "ctr-213",
+    "country": "Liechtenstein",
+    "capital_city": "Vaduz",
+    "flag_img": "c:/arcavia-data/images/flags\\Liechtenstein.gif",
+    "population": 39584,
+    "area": 160
+  },
+  {
+    "country_id": "ctr-214",
+    "country": "Monaco",
+    "capital_city": "Monaco-Ville",
+    "flag_img": "c:/arcavia-data/images/flags\\Monaco.gif",
+    "population": 36297,
+    "area": 1
+  },
+  {
+    "country_id": "ctr-215",
+    "country": "San Marino",
+    "capital_city": "San Marino",
+    "flag_img": "c:/arcavia-data/images/flags\\San Marino.gif",
+    "population": 33642,
+    "area": 60
+  },
+  {
+    "country_id": "ctr-216",
+    "country": "Gibraltar",
+    "capital_city": "Gibraltar",
+    "flag_img": "c:/arcavia-data/images/flags\\Gibraltar.gif",
+    "population": 32688,
+    "area": 10
+  },
+  {
+    "country_id": "ctr-220",
+    "country": "Palau",
+    "capital_city": "Koror",
+    "flag_img": "c:/arcavia-data/images/flags\\Palau.gif",
+    "population": 18058,
+    "area": 460
+  },
+  {
+    "country_id": "ctr-221",
+    "country": "Cook Islands",
+    "capital_city": "Avarua",
+    "flag_img": "c:/arcavia-data/images/flags\\Cook Islands.gif",
+    "population": 17044,
+    "area": 240
+  },
+  {
+    "country_id": "ctr-222",
+    "country": "Anguilla",
+    "capital_city": "The Valley",
+    "flag_img": "c:/arcavia-data/images/flags\\Anguilla.gif",
+    "population": 15899,
+    "area": 90
+  },
+  {
+    "country_id": "ctr-223",
+    "country": "Nauru",
+    "capital_city": "Yaren",
+    "flag_img": "c:/arcavia-data/images/flags\\Nauru.gif",
+    "population": 12780,
+    "area": 20
+  },
+  {
+    "country_id": "ctr-225",
+    "country": "Tuvalu",
+    "capital_city": "Funafuti",
+    "flag_img": "c:/arcavia-data/images/flags\\Tuvalu.gif",
+    "population": 11396,
+    "area": 30
+  },
+  {
+    "country_id": "ctr-228",
+    "country": "Saint Helena",
+    "capital_city": "Jamestown",
+    "flag_img": "c:/arcavia-data/images/flags\\Saint Helena.gif",
+    "population": 5314,
+    "area": 390
+  },
+  {
+    "country_id": "ctr-229",
+    "country": "Montserrat",
+    "capital_city": "Plymouth",
+    "flag_img": "c:/arcavia-data/images/flags\\Montserrat.gif",
+    "population": 4386,
+    "area": 100
+  },
+  {
+    "country_id": "ctr-230",
+    "country": "Falkland Islands",
+    "capital_city": "Stanley",
+    "flag_img": "c:/arcavia-data/images/flags\\Falkland Islands.gif",
+    "population": 3791,
+    "area": 12170
+  },
+  {
+    "country_id": "ctr-231",
+    "country": "Niue",
+    "capital_city": "Alofi",
+    "flag_img": "c:/arcavia-data/images/flags\\Niue.gif",
+    "population": 1935,
+    "area": 260
+  },
+  {
+    "country_id": "ctr-232",
+    "country": "Tokelau",
+    "capital_city": "Fakaofo",
+    "flag_img": "c:/arcavia-data/images/flags\\Tokelau.gif",
+    "population": 1893,
+    "area": 10
+  }
+]

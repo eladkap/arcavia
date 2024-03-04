@@ -1,0 +1,518 @@
+[
+  {
+    "symbol_id": "sym-286",
+    "symbol": "\ud83c\udf83",
+    "title": "jack-o-lantern",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-287",
+    "symbol": "\ud83c\udf84",
+    "title": "Christmas tree",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-288",
+    "symbol": "\ud83c\udf86",
+    "title": "fireworks",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-289",
+    "symbol": "\ud83c\udf87",
+    "title": "sparkler",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-290",
+    "symbol": "\ud83e\udde8",
+    "title": "firecracker",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-291",
+    "symbol": "\u2728",
+    "title": "sparkles",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-292",
+    "symbol": "\ud83c\udf88",
+    "title": "balloon",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-293",
+    "symbol": "\ud83c\udf89",
+    "title": "party popper",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-294",
+    "symbol": "\ud83c\udf8a",
+    "title": "confetti ball",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-295",
+    "symbol": "\ud83c\udf8b",
+    "title": "tanabata tree",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-296",
+    "symbol": "\ud83c\udf8d",
+    "title": "pine decoration",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-297",
+    "symbol": "\ud83c\udf8e",
+    "title": "Japanese dolls",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-298",
+    "symbol": "\ud83c\udf8f",
+    "title": "carp streamer",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-299",
+    "symbol": "\ud83c\udf90",
+    "title": "wind chime",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-300",
+    "symbol": "\ud83c\udf91",
+    "title": "moon viewing ceremony",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-301",
+    "symbol": "\ud83e\udde7",
+    "title": "red envelope",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-302",
+    "symbol": "\ud83c\udf80",
+    "title": "ribbon",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-303",
+    "symbol": "\ud83c\udf81",
+    "title": "wrapped gift",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-304",
+    "symbol": "\ud83c\udf97\ufe0f",
+    "title": "reminder ribbon",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-305",
+    "symbol": "\ud83c\udf9f\ufe0f",
+    "title": "admission tickets",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-306",
+    "symbol": "\ud83c\udfab",
+    "title": "ticket",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-307",
+    "symbol": "\ud83c\udf96\ufe0f",
+    "title": "military medal",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-308",
+    "symbol": "\ud83c\udfc6",
+    "title": "trophy",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-309",
+    "symbol": "\ud83c\udfc5",
+    "title": "sports medal",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-310",
+    "symbol": "\ud83e\udd47",
+    "title": "1st place medal",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-311",
+    "symbol": "\ud83e\udd48",
+    "title": "2nd place medal",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-312",
+    "symbol": "\ud83e\udd49",
+    "title": "3rd place medal",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-313",
+    "symbol": "\u26bd",
+    "title": "soccer ball",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-314",
+    "symbol": "\u26be",
+    "title": "baseball",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-315",
+    "symbol": "\ud83e\udd4e",
+    "title": "softball",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-316",
+    "symbol": "\ud83c\udfc0",
+    "title": "basketball",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-317",
+    "symbol": "\ud83c\udfd0",
+    "title": "volleyball",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-318",
+    "symbol": "\ud83c\udfc8",
+    "title": "american football",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-319",
+    "symbol": "\ud83c\udfc9",
+    "title": "rugby football",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-320",
+    "symbol": "\ud83c\udfbe",
+    "title": "tennis",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-321",
+    "symbol": "\ud83e\udd4f",
+    "title": "flying disc",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-322",
+    "symbol": "\ud83c\udfb3",
+    "title": "bowling",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-323",
+    "symbol": "\ud83c\udfcf",
+    "title": "cricket game",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-324",
+    "symbol": "\ud83c\udfd1",
+    "title": "field hockey",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-325",
+    "symbol": "\ud83c\udfd2",
+    "title": "ice hockey",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-326",
+    "symbol": "\ud83e\udd4d",
+    "title": "lacrosse",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-327",
+    "symbol": "\ud83c\udfd3",
+    "title": "ping pong",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-328",
+    "symbol": "\ud83c\udff8",
+    "title": "badminton",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-329",
+    "symbol": "\ud83e\udd4a",
+    "title": "boxing glove",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-330",
+    "symbol": "\ud83e\udd4b",
+    "title": "martial arts uniform",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-331",
+    "symbol": "\ud83e\udd45",
+    "title": "goal net",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-332",
+    "symbol": "\u26f3",
+    "title": "flag in hole",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-333",
+    "symbol": "\u26f8\ufe0f",
+    "title": "ice skate",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-334",
+    "symbol": "\ud83c\udfa3",
+    "title": "fishing pole",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-335",
+    "symbol": "\ud83e\udd3f",
+    "title": "diving mask",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-336",
+    "symbol": "\ud83c\udfbd",
+    "title": "running shirt",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-337",
+    "symbol": "\ud83c\udfbf",
+    "title": "skis",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-338",
+    "symbol": "\ud83d\udef7",
+    "title": "sled",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-339",
+    "symbol": "\ud83e\udd4c",
+    "title": "curling stone",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-340",
+    "symbol": "\ud83c\udfaf",
+    "title": "bullseye",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-341",
+    "symbol": "\ud83e\ude80",
+    "title": "yo-yo",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-342",
+    "symbol": "\ud83e\ude81",
+    "title": "kite",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-343",
+    "symbol": "\ud83c\udfb1",
+    "title": "pool 8 ball",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-344",
+    "symbol": "\ud83d\udd2e",
+    "title": "crystal ball",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-345",
+    "symbol": "\ud83e\ude84",
+    "title": "magic wand",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-346",
+    "symbol": "\ud83c\udfae",
+    "title": "video game",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-347",
+    "symbol": "\ud83d\udd79\ufe0f",
+    "title": "joystick",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-348",
+    "symbol": "\ud83c\udfb0",
+    "title": "slot machine",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-349",
+    "symbol": "\ud83c\udfb2",
+    "title": "game die",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-350",
+    "symbol": "\ud83e\udde9",
+    "title": "puzzle piece",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-351",
+    "symbol": "\ud83e\uddf8",
+    "title": "teddy bear",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-352",
+    "symbol": "\ud83e\ude85",
+    "title": "pi\u00f1ata",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-353",
+    "symbol": "\ud83e\udea9",
+    "title": "mirror ball",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-354",
+    "symbol": "\ud83e\ude86",
+    "title": "nesting dolls",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-355",
+    "symbol": "\u2660\ufe0f",
+    "title": "spade suit",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-356",
+    "symbol": "\u2665\ufe0f",
+    "title": "heart suit",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-357",
+    "symbol": "\u2666\ufe0f",
+    "title": "diamond suit",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-358",
+    "symbol": "\u2663\ufe0f",
+    "title": "club suit",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-359",
+    "symbol": "\u265f\ufe0f",
+    "title": "chess pawn",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-360",
+    "symbol": "\ud83c\udccf",
+    "title": "joker",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-361",
+    "symbol": "\ud83c\udc04",
+    "title": "mahjong red dragon",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-362",
+    "symbol": "\ud83c\udfb4",
+    "title": "flower playing cards",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-363",
+    "symbol": "\ud83c\udfad",
+    "title": "performing arts",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-364",
+    "symbol": "\ud83d\uddbc\ufe0f",
+    "title": "framed picture",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-365",
+    "symbol": "\ud83c\udfa8",
+    "title": "artist palette",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-366",
+    "symbol": "\ud83e\uddf5",
+    "title": "thread",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-367",
+    "symbol": "\ud83e\udea1",
+    "title": "sewing needle",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-368",
+    "symbol": "\ud83e\uddf6",
+    "title": "yarn",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-369",
+    "symbol": "\ud83e\udea2",
+    "title": "knot",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-370",
+    "symbol": "\ud83e\uddff",
+    "title": "nazar amulet",
+    "category": "SPORTS"
+  },
+  {
+    "symbol_id": "sym-371",
+    "symbol": "\ud83e\udeac",
+    "title": "hamsa",
+    "category": "SPORTS"
+  }
+]
