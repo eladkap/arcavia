@@ -1,23 +1,38 @@
 [
     {
-        "query_id": 1,
-        "question": "Which is the largest country?",
-        "answers": [
-            "germany",
-            "france",
-            "china",
-            "spain"
-        ],
-        "correctAnswerIndex": 2
-    },
-    {
-        "query_id": 2,
+        "queryId": 1,
         "question": "Which is the largest fruit?",
         "answers": [
-            "../assets/img/countryFlags/germany.png",
-            "../assets/img/countryFlags/france.png",
-            "../assets/img/countryFlags/china.png",
-            "../assets/img/countryFlags/spain.png"
+            "watermelon",
+            "pinapple",
+            "cherry",
+            "kiwi",
+            "orange",
+            "banana"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "queryId": 2,
+        "question": "Monkey like eating ...",
+        "answers": [
+            "watermelon",
+            "pinapple",
+            "kiwi",
+            "orange",
+            "banana"
+        ],
+        "correctAnswerIndex": 4
+    },
+    {
+        "queryId": 3,
+        "question": "Which is the largest country?",
+        "answers": [
+            "Germany",
+            "France",
+            "China",
+            "Spain",
+            "Israel"
         ],
         "correctAnswerIndex": 2
     }

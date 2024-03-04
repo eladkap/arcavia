@@ -14,7 +14,9 @@ var food_symbols = [];
 var sports_symbols = [];
 var landmarks = [];
 
+var round = 0;
 var score = 0;
+var gameOver = false;
 
 /* KEYBOARD EVENTS */
 // window.addEventListener("keypress", keyPressed);
@@ -51,8 +53,13 @@ function onMouseOver(event) {
 }
 
 /* SETUP METHODS */
-function createBubbles() {
-    for (let i = 0; i < SYMBOLS.length; i++) {
+function createBubbles(query) {
+    document.getElementById('question').textContent = query.question;
+    let answers = query.answers;
+    correctAnswer = query.answers[query.correctAnswerIndex];
+    console.log(answers);
+
+    for (let i = 0; i < answers.length; i++) {
         let x = Utils.getRandomFromRange(2 * BUBBLE_RADIUS, window.innerWidth - 2 * BUBBLE_RADIUS);
         let y = Utils.getRandomFromRange(2 * BUBBLE_RADIUS, window.innerHeight - 2 * BUBBLE_RADIUS);
         let angle = Math.random() * (2 * Math.PI);
@@ -98,15 +105,27 @@ function addToScore(amount) {
     document.getElementById('score').textContent = newScore;
 }
 
+function nextRound() {
+    round++;
+
+    if (round >= queries.length) {
+        gameOver = true;
+        return false;
+    }
+
+    createBubbles(queries[round]);
+    return true;
+}
+
 function initGame() {
     document.getElementById('score').textContent = '0';
+    round = -1;
+    nextRound();
 }
 
 function setup() {
     console.log('setup');
     /* create entities */
-    createBubbles();
-
     initGame();
 }
 
