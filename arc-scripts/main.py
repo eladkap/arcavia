@@ -1,8 +1,7 @@
 import os
 
 from category import Category
-from collect_countries import collect_flags, collect_countries
-from collect_symbols import write_symbols_to_file, collect_all_symbols
+from collector import Collector
 from config import ARC_PROPS
 from constants import DATA_FOLDERS, SYMBOLS_JSON_PATH, COUNTRIES_JSON_PATH, SYMBOL_CATEGORIES, JSON_FOLDER
 from utils import Utils
@@ -22,9 +21,9 @@ def main():
 
     if ARC_PROPS['data']['symbols']['enable']:
         print('Collecting symbols')
-        symbols = collect_all_symbols()
+        symbols = Collector.collect_all_symbols()
         print(f'Symbols collected {len(symbols)}')
-        write_symbols_to_file(symbols, SYMBOLS_JSON_PATH)
+        Collector.write_symbols_to_file(symbols, SYMBOLS_JSON_PATH)
 
         for symbol in symbols:
             for category in SYMBOL_CATEGORIES:
@@ -38,11 +37,11 @@ def main():
 
     if ARC_PROPS['data']['flags']['enable']:
         print('Collecting flags')
-        collect_flags()
+        Collector.collect_flags()
 
     if ARC_PROPS['data']['countries']['enable']:
         print('Collecting countries')
-        countries = collect_countries()
+        countries = Collector.collect_countries()
         print(f'Countres collected: {len(countries)}')
         country_dicts = [country.to_dict() for country in countries]
         Utils.write_dicts_to_json(country_dicts, COUNTRIES_JSON_PATH)
