@@ -1,5 +1,6 @@
 import json
 import os
+import random
 
 
 class Utils:
@@ -19,3 +20,9 @@ class Utils:
     def create_folders(folders: list):
         for folder in folders:
             os.makedirs(folder, exist_ok=True)
+
+    @staticmethod
+    def shuffle(arr: list):
+        for i in range(len(arr)):
+            j = random.randint(0, len(arr) - 1)
+            arr[i], arr[j] = arr[j], arr[i]
