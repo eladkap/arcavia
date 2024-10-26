@@ -88,8 +88,10 @@ class Collector:
 
             country_dict['capital'] = capital_city
 
+            acronym = Utils.get_cuntry_acronym(country_dict['country_name'])
+
             country = Country(country_dict['id'], country_dict['country_name'], country_dict['capital'],
-                              country_dict['flag'], country_dict['population'], country_dict['area'])
+                              country_dict['flag'], country_dict['population'], country_dict['area'], acronym)
 
             countries.append(country)
 

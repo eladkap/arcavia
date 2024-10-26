@@ -28,3 +28,8 @@ SYMBOLS_JSON_PATH = 'c:/arcavia-data/json_files/symbols.json'
 COUNTRIES_JSON_PATH = 'c:/arcavia-data/json_files/countries.json'
 JSON_FOLDER = 'c:/arcavia-data/json_files'
 FLAG_IMAGES_PATH = 'c:/arcavia-data/images/flags'
+
+POPULAR_COUNTRIES = [
+    'RUS',
+    'USA'
+]

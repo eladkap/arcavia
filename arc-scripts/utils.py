@@ -26,3 +26,10 @@ class Utils:
         for i in range(len(arr)):
             j = random.randint(0, len(arr) - 1)
             arr[i], arr[j] = arr[j], arr[i]
+
+    @staticmethod
+    def get_cuntry_acronym(country_name: str):
+        parts = country_name.split()
+        if len(parts) == 1:
+            return country_name[:3].upper()
+        return ''.join([part[0].upper() for part in parts])
