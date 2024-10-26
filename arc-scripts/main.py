@@ -49,10 +49,5 @@ def main():
         arc_data['countries'] = countries
 
 
-def load_symbols_from_file():
-    data = Utils.read_json_to_dicts(SYMBOLS_JSON_PATH)
-    return data
-
-
 if __name__ == '__main__':
     main()
